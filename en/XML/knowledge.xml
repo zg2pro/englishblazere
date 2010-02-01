@@ -11,7 +11,7 @@
 	 <!--field> Human-Machine Interface (HMI) : <big>Scope statements</big>, management of ergonomic and cognitive criteria </li--> 
 	 <field> Programming in <big>C/C++, Java/J2EE</big>, IDE NetBeans, Eclipse, JDBC, log4j, License4j, JTidy, JUnit, RMI, JMS, EJB, JBoss. </field>
 	 <field> <big>SQL</big>(DDL, DML, DCL, DQL): Design, Relational Algebra, Requests, Procedural Languages (object) <br/> DBMS Postgres, MySQL, Oracle </field>
-	 <field> Web development : <big> CSS, XHTML, PHP, AJAX</big>, JavaScript  </field>
+	 <field> Web development : <big> CSS, XHTML, PHP, AJAX</big>, JavaScript (with libraries JQuery, PHPUnit, PHPExcel...)  </field>
  	<field><big> XML : XSL, XSP, XQuery </big>, Apache-Cocoon</field>
 	<field> Algorithm : <big>Computational complexity theory</big></field>
 	<field> Development of graphical interfaces in <big>Awt/Swing, Gtk+, Tcl/Tk</big> 
