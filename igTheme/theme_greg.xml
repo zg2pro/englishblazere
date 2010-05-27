@@ -1,0 +1,46 @@
+<ConfigMaps>
+<ConfigMap type="Skin">
+<meta name="title">englishblazere.free.fr</meta>
+<meta name="description">Theme from http://englishblazere.free.fr</meta>
+<meta name="author">Gregory Anne</meta>
+<meta name="author_email">englishblazere@free.fr</meta>
+<meta name="thumbnail">http://englishblazere.free.fr/igTheme/thumbnail_greg.jpg</meta>
+</ConfigMap>
+<ConfigMap type="Skin">
+<Attribute name="header.background_color">#ffffff</Attribute>
+<Attribute name="header.center_image.url">http://englishblazere.free.fr/igTheme/success.jpg</Attribute>
+<Attribute name="header.tile_image.url">http://englishblazere.free.fr/igTheme/banner_greg.jpg</Attribute>
+<Attribute name="header.logo">original</Attribute>
+<Attribute name="header.link_color">#8888ff</Attribute>
+<Attribute name="header.text_color">#ffffff</Attribute>
+<Attribute name="navbar.background_color">#2222gg</Attribute>
+<Attribute name="navbar.border_color">#d3d3d3</Attribute>
+<Attribute name="navbar.icons.icon_color">#00a9ff</Attribute>
+<Attribute name="navbar.tab.selected.link_color">#000000</Attribute>
+<Attribute name="navbar.tab.unselected.link_color">#000000</Attribute>
+<Attribute name="navbar.tab.unselected.border_color">#ffffff</Attribute>
+<Attribute name="navbar.contacts.contact_color">#000000</Attribute>
+<Attribute name="navbar.contacts.status_color">#666666</Attribute>
+<Attribute name="navbar.contacts.hover_background_color">#D4E6FC</Attribute>
+<Attribute name="navbar.contacts.card.border_color">#C3D9FF</Attribute>
+<Attribute name="navbar.contacts.invite.background_color">#0000gg</Attribute>
+<Attribute name="navbar.contacts.invite.border_color">#0000gg</Attribute>
+<Attribute name="navbar.contacts.invite.text_color">#000000</Attribute>
+<Attribute name="navbar.contacts.invite.link_color">#0000gg</Attribute>
+<Attribute name="gadget_area.chat.header.background_color">#73A6FF</Attribute>
+<Attribute name="gadget_area.chat.header.highlight.background_color">#008BAA</Attribute>
+<Attribute name="gadget_area.border_color">#C3D9FF</Attribute>
+<Attribute name="gadget_area.gadget.border_color">#008aff</Attribute>
+<Attribute name="gadget_area.gadget.hover.border_color">#d3d3d3</Attribute>
+<Attribute name="gadget_area.gadget.header.background_color">#0033ff</Attribute>
+<Attribute name="gadget_area.gadget.header.text_color">#ffffff</Attribute>
+<Attribute name="gadget_area.gadget.body.link_color">#ffffff</Attribute>
+<Attribute name="gadget_area.icons.icon_color">#ffffff</Attribute>
+<Attribute name="footer.background_color">#ECF4FD</Attribute>
+<Attribute name="footer.link_color">#0000cc</Attribute>
+<Attribute name="footer.text_color">#000000</Attribute>
+<Attribute name="attribution.image.url">
+http://englishblazere.free.fr/igTheme/englishblazere.jpg
+</Attribute>
+</ConfigMap>
+</ConfigMaps>
