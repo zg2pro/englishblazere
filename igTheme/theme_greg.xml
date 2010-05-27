@@ -4,12 +4,12 @@
 <meta name="description">Theme from http://englishblazere.free.fr</meta>
 <meta name="author">Gregory Anne</meta>
 <meta name="author_email">englishblazere@free.fr</meta>
-<meta name="thumbnail">http://englishblazere.free.fr/igTheme/thumbnail_greg.jpg</meta>
+<meta name="thumbnail">http://englishblazere.googlecode.com/svn/trunk/igTheme/thumbnail_greg.jpg</meta>
 </ConfigMap>
 <ConfigMap type="Skin">
 <Attribute name="header.background_color">#ffffff</Attribute>
-<Attribute name="header.center_image.url">http://englishblazere.free.fr/igTheme/success.jpg</Attribute>
-<Attribute name="header.tile_image.url">http://englishblazere.free.fr/igTheme/banner_greg.jpg</Attribute>
+<Attribute name="header.center_image.url">http://englishblazere.googlecode.com/svn/trunk/igTheme/success.jpg</Attribute>
+<Attribute name="header.tile_image.url">http://englishblazere.googlecode.com/svn/trunk/igTheme/banner_greg.jpg</Attribute>
 <Attribute name="header.logo">original</Attribute>
 <Attribute name="header.link_color">#8888ff</Attribute>
 <Attribute name="header.text_color">#ffffff</Attribute>
@@ -40,7 +40,7 @@
 <Attribute name="footer.link_color">#0000cc</Attribute>
 <Attribute name="footer.text_color">#000000</Attribute>
 <Attribute name="attribution.image.url">
-http://englishblazere.free.fr/igTheme/englishblazere.jpg
+http://englishblazere.googlecode.com/svn/trunk/igTheme/englishblazere.jpg
 </Attribute>
 </ConfigMap>
 </ConfigMaps>
