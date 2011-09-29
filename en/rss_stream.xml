@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rss version="2.0"><channel>
+ <title>Gregory Anne</title>
+	<description>Last Elements</description>
+	<link>http://englishblazere.free.fr</link>
+	<image>
+	  <title>Gregory Anne</title>
+	  <url>http://englishblazere.free.fr/images/ionetwork.jpg</url>
+	  <link>http://englishblazere.free.fr</link>
+	</image>
+	<copyright>Gregory Anne</copyright>
+	<webMaster>englishblazere@free.fr</webMaster>
+ 
+ 
+ 
+ <item><title>Last Experience</title><link>http://englishblazere.free.fr/en/index.php?p=mycv#experience</link><guid>http://englishblazere.free.fr/en/index.php?p=mycv#experience</guid><pubDate>Tue, 9 Aug 2009 16:20:00 GMT</pubDate><description><![CDATA[<table align="center" border="2" summary="your browser cannot display tables"><tbody>
+<tr>
+<th>Organization</th>
+<th>Date</th>
+<th>Role / Nature of work</th>
+</tr>
+<tr>
+<td>
+			
+		<a href="http://www.ionetwork.com"> 
+		<img src="../images/ionetwork.jpg" alt="IO-Network" width="120" height="70" border="0" />
+		</a> <br/>Ho Chi Minh City (Vietnam)
+	
+		
+			</td>
+<td>
+		October 2009 till now
+			</td>
+<td>
+		Project Manager 
+		<br/> <big>Manages a 6-person team</big>
+		<br/> <big>Project Management, R&amp;D &amp; Solutioning</big>
+		<br/> <big>Needs analysis alongside with customers</big>, Specification &amp; Design 
+		<br/> Technologies: Transaction Host: Java, Microsoft SQL Server, Eclipse <br/> 
+		Terminal programming: Verifone Vx510, ARM Compiler, Source Insight, C <br/> 
+		Miscellaneous: UML, SVN, Testlink, Mantis, Google Apps...
+		<br/> Payment Solutions projects for South-East Asian market:
+		<ol> 
+		<li> Pre-paid Top-up Systems for mobile phone suppliers (I achieved several upgrades
+		on the main customer's running system) </li> 
+		<li> Gift Cards, Loyalty Cards and management systems (I promoted and sold the system
+		customers, also enhanced functionalities)</li> 
+		<li> Electronic Cash Registers: I created a middleware software to interact between
+		the terminal connected via RS232 and any retail management application. I specified 
+		the packets sent via serial between the ECR and the terminal, adapted for Softpay. I implemented
+		the exhange of these messages in Java using Javacomm API. Finally I provided a
+		standardized access to this middleware application using <big>CORBA</big>. Then I coached 
+		the team in the partner company (<a href="http://www.evietsoft.net/GCMS.aspx">evietsoft</a>), 
+		helped them to create the CORBA client able to use our middleware application. </li>
+<li> iPay: an online payment functionality for Gift Cards System (which I entirely designed)</li> 
+		<li> VIP Service: I created an add-on to iPay to identify members using QR codes and
+process vip rewards. The QR code scanner uses <a href="http://replycam.com/">replycam.com</a>: a flash client for
+webcams.
+ 
+		</li><li> Bill Collectors: I specified an add-on for Gift cards system and iPay, so card
+holders have the possibility to pay their bills using our prepaid accounts.
+ </li>
+		<li> Lines Encryption System between Point-Of-Sales and banking application servers
+		(I introduced the product at the banks headquarters, I installed a pilot version for the biggest state-owned bank in the country)</li>		
+		<li> NFC Payment System &amp; devices (using Proximity Coupling Device - 
+		I specified the flow of transactions and all other main aspects for several projects
+		bound to this technology)</li>	
+		<li> Funds Transfer (I partnered a US Corporation to organize Prepaid and
+			Mastercard-based funds transfers between North America and Vietnam using SMS)</li>
+		<li> Integration of various applications on a standalone terminal </li>
+		</ol>
+		As a department lead, I also worked at improving the process (I defined the strategy
+		guidelines, I created workflows for maintenance and new developments and I also 
+		brought a quality approach).
+			</td>
+</tr>
+</tbody></table>]]></description></item><item><title>Last Degree</title><link>http://englishblazere.free.fr/en/index.php?p=mycv#education</link><guid>http://englishblazere.free.fr/en/index.php?p=mycv#education</guid><pubDate>Tue, 9 Aug 2009 16:20:00 GMT</pubDate><description><![CDATA[<table align="center" border="2" summary="your browser cannot display tables"><tbody><tr><th>Year</th><th>Degree</th><th>Summary</th></tr><tr><td>2009
+		</td><td>
+		<big>MASTER</big>2 PRO Information and Systems Science (<big>MSc</big>)<br/> 
+	speciality Computer Science major <a href="http://www.lsis.org/master/index.php?parcours=3"> Software Engineering </a> <br/>
+	Honors: <big>magna cum laude - 2:1</big> - (<a href="http://fr.wikipedia.org/wiki/Mention_honorifique">mention bien</a>)<br/> 
+	Universite Aix-Marseille III <br/>
+		(5th year of university)
+		</td><td>
+		As  is common in France, I had chosen to study the second year of my major at a different institute, 
+		as courses are compatible between different universities. 
+		I studied Software Engineering major in my 2nd year of masters the purpose of which 
+		is to prepare students for the job market. The courses provided us the access to any
+		part of an SDLC (we were trained to manage projects, specify, design, implement, and control the quality).
+		</td></tr></tbody></table>]]></description></item></channel></rss>

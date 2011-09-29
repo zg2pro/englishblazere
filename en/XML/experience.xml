@@ -1,0 +1,253 @@
+
+<experience>
+	<item>
+			<organization>
+			
+		<a href="http://www.ionetwork.com"> 
+		<img src="../images/ionetwork.jpg" alt="IO-Network" width="120" height="70" border="0" />
+		</a> <br/>Ho Chi Minh City (Vietnam)
+	
+		
+			</organization>
+			<date>
+		October 2009 till now
+			</date>
+			<role>
+		Project Manager 
+		<br/> <big>Manages a 6-person team</big>
+		<br/> <big>Project Management, R&amp;D &amp; Solutioning</big>
+		<br/> <big>Needs analysis alongside with customers</big>, Specification &amp; Design 
+		<br/> Technologies: Transaction Host: Java, Microsoft SQL Server, Eclipse <br/> 
+		Terminal programming: Verifone Vx510, ARM Compiler, Source Insight, C <br/> 
+		Miscellaneous: UML, SVN, Testlink, Mantis, Google Apps...
+		<br/> Payment Solutions projects for South-East Asian market:
+		<ol> 
+		<li> Pre-paid Top-up Systems for mobile phone suppliers: I achieved several upgrades
+		on the main customer's running system. </li> 
+		<li> Gift Cards, Loyalty Cards and management systems: I promoted and sold the system
+		to prospects, also enhanced functionalities</li> 
+		<li> Electronic Cash Registers: I created a middleware software to interact between
+		the terminal connected via RS232 and any retail management application. I specified 
+		the packets sent via serial between the ECR and the terminal, adapted for Softpay. I implemented
+		the exhange of these messages in Java using Javacomm API. Finally I provided a
+		standardized access to this middleware application using <big>CORBA</big>. Then I coached 
+		the team in the partner company (<a href="http://www.evietsoft.net/GCMS.aspx">evietsoft</a>), 
+		helped them to create the CORBA client able to use our middleware application. </li>
+<li> iPay: an online payment functionality for Gift Cards System (which I entirely designed)</li> 
+		<li> VIP Service: I created an add-on to iPay to identify members using QR codes and
+process vip rewards. The QR code scanner uses <a href="http://replycam.com/">replycam.com</a>: a flash client for
+webcams.
+ 
+		</li>
+	<li> PrepaidWebServices: I created a JAX-WS application to let customer accounts download transactions and cards
+	reports in XML format.
+ 
+		</li><li> Bill Collectors: I specified an add-on for Gift cards system and iPay, the aim of
+		which is to provide the card holders the possibility to pay their bills using our prepaid accounts.
+ </li>
+		<li> Lines Encryption System between Point-Of-Sales and banking application servers: 
+		I introduced the product at the banks headquarters, I installed a pilot version for the biggest state-owned bank in the country)</li>		
+		<li> NFC Payment System &amp; devices: using Proximity Coupling Device, 
+		I specified the use cases (flows of transactions) for several projects bound to this technology</li>	
+		<li> Funds Transfer: I partnered a US Corporation to organize Prepaid and
+			Mastercard-based funds transfers between North America and Vietnam using SMS</li>
+		<li> Integration of various applications on a standalone terminal </li>
+		</ol>
+		As a department lead, I also worked at improving the process (I defined the strategy
+		guidelines, I created workflows for maintenance and new developments and I also 
+		brought a quality approach).
+			</role>
+	</item>
+	<item>
+			<organization>
+			 <a href="http://www.ibm.com/vn/en/"> 
+		<img src="../images/ibm.jpg" alt="IBM" width="140" height="60" border="0" /><br/>
+		<big>Vietnam Global Delivery Center</big></a> <br/>Ho Chi Minh City (Vietnam)
+			</organization>
+			<date>
+			March to August 2009
+			</date>
+			<role>
+			<u>Officially agreed end of studies internship :</u> 
+		<br/> Contributed to "MdP" team projects, expert in Java/J2E technologies
+		 (collaborative working based on <big>Hibernate/Spring/Struts frameworks, Mantis bugtracker, Subversion</big>)
+		<br/>Status and tasks evolved regarding projects:		 
+		 <ol>
+		<li>Knowledge Base Portal:<br/>
+I supplied solutions (CMS comparisons).<br/>
+&amp; Installed &amp; Customized &amp; Administrated the CMS EZ-Publish<br/>
+&amp; Promoted the use of the portal to the team.</li>
+<li>
+I developed complete screens of web applications based on Java framework
+ (Using HQL, JSP, JavaScript, XML, CSS and JEE concepts)<br/>
+I corrected bugs and executed change-requests on this JEE web application.
+</li>
+<li>
+Business analyst: I was a relay between IBM VN and IBM FR<br/>
+I translated documents from French to English, I detailed the specifications, and I
+filtered out the possible ambiguities.
+</li>
+<li>
+Internal project:<br/>
+I had the honour to manage a 1-to-4-person team depending on the iteration (spiral lifecycle). The
+project was managed following MdP workflow (estimations,
+planning and tracking). For each iteration I investigated into the needs,
+searched and proposed my solutions. I contributed greatly in the specification
+and design of the model, I helped my team in their LAMP or WAMP server or IDE
+configuration, and I also implemented the most complex parts
+(using MySQL, PHP, JavaScript/AJAX)
+</li>
+<li>
+I supplied my ideas about the model design and also technical elements into the
+context of a new offer
+</li>
+<li>
+IBM Formations:<br/>
+Function Points: methods to estimate the charge of projects<br/>
+Quality Process Awareness and Competency Evaluation: Understanding the concepts of quality assurance<br/>
+CMMI Awareness: Participation in training sessions with
+a view to the certification of the development center
+</li>
+		 
+		</ol>
+			</role>
+	</item>
+	<item>
+			<organization>
+			 <a href="http://www.osiatis.fr/"> 
+		<img src="../images/Logo_Osiatis.jpg" alt="Osiatis" width="140" height="60" border="0" /><br/>
+		</a> IT Outsourcing Services <br/>Vitrolles -near Marseille-
+			</organization>
+			<date>
+			Summer 2008
+			</date>
+			<role>
+			Administrated the professionnal database management system "Remedy" for EUROCOPTER at Marignane <br/>
+		+ Created a videoconferencing rooms directory (SQL, PHP)
+			</role>
+	</item>
+	<item>
+			<organization>
+			Senecrus Co <br/> Rungis -near Paris-
+			</organization>
+			<date>
+			Summer 2007
+			</date>
+			<role>
+			Chief machine operator, managed staff and upkept the material in a shrimps transformation and conditioning factory
+			</role>
+	</item>
+	<item>
+			<organization>
+			Mathematics lessons<br/>Lorgues/La Valette <br/> -south of France-
+			</organization>
+			<date>
+			June 2007
+			</date>
+			<role>
+			Private tutoring for high school students with various levels
+			</role>
+	</item>
+	<item>
+			<organization>
+			CMC-Animations<br/>Toulon -south of France-
+			</organization>
+			<date>
+			Christmas 2006
+			</date>
+			<role>
+			Giant fluffy in the great Christmas parades.
+			Dancing and snapshots with the kids.
+			</role>
+	</item>
+	<item>
+			<organization>
+			<a href="http://www.mobilegov.com">
+		<img src="../images/mobilegov.jpg" alt="Mobilegov" width="160" height="50" border="0" /><br/>
+		</a>Sophia-Antipolis -French Riviera-
+			</organization>
+			<date>
+			2006
+			</date>
+			<role>
+			 <u> Officially agreed internship 2006 : </u> 
+		Quality Control for java applications, wrote technical documentations and user guides.
+			</role>
+	</item>
+	<item>
+			<organization>
+			Hypermarket E. Leclerc<br/>Le Luc -south of France-
+			</organization>
+			<date>
+			Summer 2005
+			</date>
+			<role>
+			Versatile employee in liquids shelves
+		Using hand and power pallet trucks
+			</role>
+	</item>
+	<item>
+			<organization>
+			Atelier V<br/>
+			Carros -near Nice-
+			</organization>
+			<date>
+			Summer 2004
+			</date>
+			<role>
+			Manufacturing roadsigns for the works
+		of Nice's streetcar
+			</role>
+	</item>
+	<item>
+			<organization>
+			Total Service Station<br/>
+			Le Cannet -south of France-
+			</organization>
+			<date>
+			Fall 2003
+			</date>
+			<role>
+			In charge of sales and restocking shelves, using cash
+		register, serving petrol, opening and closing of the station
+			</role>
+	</item>
+	<item>
+			<organization>
+			Town Hall<br/>
+			Le Luc
+			</organization>
+			<date>
+			Summer 2003
+			</date>
+			<role>
+			Arranging festivities,
+		general maintenance of the spaces
+			</role>
+	</item>
+	<item>
+			<organization>
+			Chateau la Lauzade<br/>
+			Le Luc
+			</organization>
+			<date>
+			September 2002
+			</date>
+			<role>
+			Grape harvest
+			</role>
+	</item>
+	<item>
+			<organization>
+			Qualimedia Plus<br/>
+			Nice
+			</organization>
+			<date>
+			Summer 2000
+			</date>
+			<role>
+			Computers shop in removal :
+        	various work, setting up material
+			</role>
+	</item>
+</experience>

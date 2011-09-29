@@ -1,0 +1,217 @@
+<checklist>
+<comptant>
+<achat>
+	<item>
+		<nature>L'action est dans un couloir haussier</nature>
+		<coefficient>1</coefficient>
+	</item>
+	<item>
+		<nature>le MA20 remonte</nature>
+		<coefficient>1</coefficient>
+	</item>
+	<item>
+		<nature>Les indices internationaux sont haussiers (CAC40 + Dow):
+		MA20 CAC en montee, couloir de hausse</nature>
+		<coefficient>1</coefficient>
+	</item>
+	<item>
+		<nature>Les bollinger s'ecartent en montant</nature>
+		<coefficient>1</coefficient>
+	</item>
+	<item>
+		<nature>L'indice par repartition sectorielle est en moyenne 
+		haussier sur les 5 derniers jours</nature>
+		<coefficient>1</coefficient>
+	</item>
+	<item>
+		<nature>L'action a perce un support fort</nature>
+		<coefficient>1</coefficient>
+	</item>
+	<item>
+		<nature>Le prix de l'action est bas par rapport a la moyenne des 5 dernieres annees, 
+		l'entreprise a plus de 25 ans.</nature>
+		<coefficient>1</coefficient>
+	</item>
+	<item>
+		<nature>Il est entre 15 et 16:30 et l'action connait un pic de volume,
+		dans le sens positif</nature>
+		<coefficient>1</coefficient>
+	</item>
+	<item>
+		<nature>Il existe deja des actions de cette entreprise dans le livret d'actions,
+		(renforcement)</nature>
+		<coefficient>0.5</coefficient>
+	</item>
+	<item>
+		<nature>L'entreprise vend en euros et l'euro est bas (1 euro vaut moins de 1.33)</nature>
+		<coefficient>1</coefficient>
+	</item>
+	<item>
+		<nature>L'entreprise vend en euros et l'euro baisse</nature>
+		<coefficient>1</coefficient>
+	</item>
+	<item>
+		<nature>L'entreprise vend en dollars et l'euro est fort (1 euro vaut plus de 1.36)</nature>
+		<coefficient>1</coefficient>
+	</item>
+	<item>
+		<nature>L'entreprise vend en dollars et l'euro monte</nature>
+		<coefficient>1</coefficient>
+	</item>
+	<item>
+		<nature>L'entreprise doit delivrer un plan de restructuration</nature>
+		<coefficient>1</coefficient>
+	</item>
+	<item>
+		<nature>L'entreprise a une commande arrivant a terme (produit en fin
+		de production)</nature>
+		<coefficient>1</coefficient>
+	</item>
+	<item>
+		<nature>L'entreprise a un rachat en cours (veritable signature)</nature>
+		<coefficient>1</coefficient>
+	</item>
+	<item>
+		<nature>L'entreprise avait prevu une augmentation de capital sur le dos
+		des actionnaires, celle ci arrive a terme.</nature>
+		<coefficient>1</coefficient>
+	</item>
+	<item>
+		<nature>L'entreprise recoit des OPA</nature>
+		<coefficient>1</coefficient>
+	</item>
+	<item>
+		<nature>L'entreprise doit publier un bon rapport trimestriel.</nature>
+		<coefficient>1</coefficient>
+	</item>
+	<item>
+		<nature>On est en debut de mois. (30 du mois precedent -> 8 du mois en cours)</nature>
+		<coefficient>1</coefficient>
+	</item>
+</achat>
+<vente>
+<item>
+	<nature>Les bollingers se resserrent</nature>
+	<coefficient>1</coefficient>
+	</item>
+<item>
+	<nature>L'action a evolue sur une derniere hausse dans une journee de baisse, 
+	il est au moins 15:00</nature>
+	<coefficient>1</coefficient>
+</item>
+<item>
+	<nature>L'entreprise a procede a un rachat, l'acquisition est effective</nature>
+	<coefficient>1</coefficient>
+</item>
+<item>
+	<nature>L'entreprise a livre, a recu ses benefices</nature>
+	<coefficient>1</coefficient>
+</item>
+<item>
+	<nature>Il y a une position bien plus interessante a prendre, besoin de cash</nature>
+	<coefficient>1</coefficient>
+</item>
+<item>
+	<nature>J'ai descendu au lieu de monte, j'ai bute sur un stop</nature>
+	<coefficient>1</coefficient>
+</item>
+<item>
+	<nature>Mon action est chere</nature>
+	<coefficient>1</coefficient>
+</item>
+</vente>
+</comptant>
+<decouvert>
+<vente>
+<item>
+		<nature>L'action est dans un couloir baissier</nature>
+		<coefficient>1</coefficient>
+	</item>
+	<item>
+		<nature>le MA20 baisse</nature>
+		<coefficient>1</coefficient>
+	</item>
+	<item>
+		<nature>Les indices internationaux sont baissiers (CAC40 + Dow):
+		MA20 CAC en baisse, couloir de baisse</nature>
+		<coefficient>1</coefficient>
+	</item>
+	<item>
+		<nature>Les bollinger s'ecartent en baissant</nature>
+		<coefficient>1</coefficient>
+	</item>
+	<item>
+		<nature>L'indice par repartition sectorielle est en moyenne 
+		baissiere sur les 5 derniers jours</nature>
+		<coefficient>1</coefficient>
+	</item>
+	<item>
+		<nature>L'action a perce un support fort (en baisse)</nature>
+		<coefficient>1</coefficient>
+	</item>
+	<item>
+		<nature>Le prix de l'action est haut par rapport a la moyenne des 5 dernieres annees, 
+		l'entreprise a plus de 25 ans.</nature>
+		<coefficient>1</coefficient>
+	</item>
+	<item>
+		<nature>Il est entre 15 et 16:30 et l'action connait un pic de volume,
+		dans le sens negatif</nature>
+		<coefficient>1</coefficient>
+	</item>
+	<item>
+		<nature>Il existe deja des actions de cette entreprise dans le livret d'actions,
+		(renforcement du decouvert)</nature>
+		<coefficient>0.5</coefficient>
+	</item>
+	<item>
+		<nature>L'entreprise vend en euros et l'euro est haut (1 euro vaut plus de 1.36)</nature>
+		<coefficient>1</coefficient>
+	</item>
+	<item>
+		<nature>L'entreprise vend en euros et l'euro monte</nature>
+		<coefficient>1</coefficient>
+	</item>
+	<item>
+		<nature>L'entreprise vend en dollars et l'euro est bas (1 euro vaut moins de 1.32)</nature>
+		<coefficient>1</coefficient>
+	</item>
+	<item>
+		<nature>L'entreprise vend en dollars et l'euro baisse</nature>
+		<coefficient>1</coefficient>
+	</item>
+	<item>
+		<nature>L'entreprise n'a pas de projets</nature>
+		<coefficient>1</coefficient>
+	</item>
+	<item>
+		<nature>L'entreprise recoit des commandes et doit produire</nature>
+		<coefficient>1</coefficient>
+	</item>
+	<item>
+		<nature>L'entreprise envoie des OPA</nature>
+		<coefficient>1</coefficient>
+	</item>
+	<item>
+		<nature>L'entreprise annonce une augmentation de capital.</nature>
+		<coefficient>1</coefficient>
+	</item>
+	<item>
+		<nature>L'entreprise doit publier un rapport de ventes positif,
+		le prochain trimestre/semestre sera en baisse.</nature>
+		<coefficient>1</coefficient>
+	</item>
+	<item>
+		<nature>On est en fin de mois. (du troisieme vendredi du mois -> 25)
+		--> Periode des trois sorcieres</nature>
+		<coefficient>1</coefficient>
+	</item>
+	</vente>
+	<rachat>
+	<item>
+		<nature>Objectifs atteints</nature>
+		<coefficient>1</coefficient>
+	</item>
+	</rachat>
+</decouvert>
+</checklist>
