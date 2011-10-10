@@ -109,7 +109,7 @@ function age($naiss)  {
 	<li><a href="../<?php if ($hl == 'en') echo 'fr'; else echo 'en' ?>/index.php?p=<?php echo $p; ?>">
 	<img src="../images/<?php if ($hl == 'en') echo 'fr'; else echo 'en' ?>.gif" alt="<?php if ($hl == 'en') echo 'fr'; else echo 'en' ?>" width="35" height="35" border="0" vspace="6"  align="middle"/>
 	<?php echo $ext_string["tools.vf"]; ?> </a></li>
-	<li><a href="../PDF/CVen_GregANNE.pdf"><!-- a href="../PDF/CV<?php echo $hl; ?>_GregANNE.pdf" -->
+	<li><a href="../PDF/CV<?php echo $hl; ?>_GregANNE.pdf">
 	<img src="../images/printer.gif" alt="." width="35" height="35" border="0" vspace="6" align="middle"/>
 	<?php echo $ext_string["tools.p"]; ?> </a></li>
 	<li>

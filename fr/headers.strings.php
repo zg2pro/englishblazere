@@ -1,7 +1,7 @@
 <?php
 
 $ext_string['title'] = "Curriculum Vitae de Gr&eacute;gory ANNE";
-$ext_string['title.h1'] = "<h1 class=\"h1_2_lines\">ING&Eacute;NIEUR &Eacute;TUDES <br/>&amp; D&Eacute;VELOPPEMENT LOGICIEL
+$ext_string['title.h1'] = "<h1 class=\"h1_1_line\">ING&Eacute;NIEUR / ARCHITECTE LOGICIEL
 <br/>
 TECHNICAL LEAD ET GESTION DE PROJET</h1>";
 

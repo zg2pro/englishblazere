@@ -8,7 +8,7 @@
 		
 			</organization>
 			<date>
-		Octobre 2009 &agrave; Aujourd'hui
+		Octobre 2009 &agrave; Octobre 2011
 			</date>
 			<role>
 	Chef de Projet 
@@ -26,11 +26,11 @@ upgrades ont &eacute;t&eacute; men&eacute;es &agrave; terme.</li>
 J'ai promu et vendu le syst&egrave;me aux clients, j'ai aussi am&eacute;lior&eacute; 
 les composants fonctionnels</li>
 <li> Syst&egrave;mes embarqu&eacute;s de paiement par carte de cr&eacute;dit Visa &amp; Mastercard </li>		
-<li> Caisses enregistreuses : j'ai cr&eacute;&eacute; un logiciel middleware capable d'int&eacute;ragir entre
+<li> Caisses enregistreuses : j'ai cr&eacute;&eacute; un logiciel middleware capable d'interagir entre
 le terminal connect&eacute; via une interface RS232 et toute application de gestion de vente au d&eacute;tail. J'ai sp&eacute;cifi&eacute;
 les paquets envoy&eacute;s via le port s&eacute;rie entre les caisses enregistreuses et le terminal, adapt&eacute;s pour SoftPay, ainsi
 que pour notre syst&egrave;me de comptes pr&eacute;pay&eacute;s. J'ai mis en place
-l'&eacute;change de ces messages en Java en utilisant l'API JavaComm. Enfin, j'ai fourni un
+l'&eacute;change de ces messages en Java en utilisant l'API JavaComm. Enfin, j'ai fourni
 un acc&egrave;s standardis&eacute; &agrave; l'application middleware avec <big>CORBA</big>. Ensuite, j'ai fourni mon support
 &agrave; l'&eacute;quipe de l'entreprise partenaire (<a href="http://www.evietsoft.net/GCMS.aspx"> evietsoft </a>),
 les ai aid&eacute; &agrave; cr&eacute;er le client CORBA en mesure de dialoguer avec notre application middleware. </li>	
@@ -38,12 +38,12 @@ les ai aid&eacute; &agrave; cr&eacute;er le client CORBA en mesure de dialoguer 
 <li>Service VIP : J'ai cr&eacute;&eacute; un add-on &agrave; iPay afin d'identifier les membres en utilisant les codes barres QR et
 g&eacute;rer des promotions sp&eacute;ciales. Le scanner QR utilise <a href="http://replycam.com/">replycam.com</a>: un client flash
 adapt&eacute; aux webcams.
-</li><li>PrepaidWebServices : J'ai cr&eacute;&eacute; une application JAX-WS pour que les comptes clients aient la possibilit&eacute;
+</li><li>PrepaidWebServices : J'ai cr&eacute;&eacute; une application <big>JAX-WS</big> pour que les comptes clients aient la possibilit&eacute;
 de t&eacute;l&eacute;charger les journaux de transactions et les informations des cartes au format XML.
 </li><li>Bill Collectors : J'ai sp&eacute;cifi&eacute; un add-on pour Gift cards system et iPay, afin que les d&eacute;tenteurs de cartes
 aient la possibilit&eacute; de payer leurs factures en utilisant leur comptes pr&eacute;pay&eacute;s.</li>
-<li> Syst&egrave;me de cryptage de la transmission des donn&eacute;es banquaires
-entre les terminaux POS et les serveurs d'applications banquaires : j'ai present&eacute; la solution aux comit&eacute;s directeurs des grandes
+<li> Syst&egrave;me de cryptage de la transmission des donn&eacute;es bancaires
+entre les terminaux POS et les serveurs d'applications bancaires : j'ai present&eacute; la solution aux comit&eacute;s directeurs des grandes
 		banques Vietnamiennes, J'ai install&eacute; une version pilote pour la plus grosse banque d'&eacute;tat du pays. </li>	
 <li>Appareils de paiements NFC : utilisation du Proximity Coupling Device - 
 		specification du circuit de transactions et des cas d'utilisation 
@@ -98,7 +98,7 @@ Projet interne: Outil de Gestion de Projet<br/>
 - Sp&eacute;cification et Conception du mod&egrave;le.<br/>
 - <big>Configuration d'environnements</big> sur serveurs LAMP et WAMP<br/>
 - Impl&eacute;mentation base de donn&eacute;es MySQL, code PHP, JavaScript/AJAX<br/>
-- <big>Gestion d'une &eacute;quipe de 1 &agrave; 4 personnes</big> suivant l'it&eacute;ration (cycle en spirale).<br/>
+- <big>Gestion d'une &eacute;quipe de 1 &agrave; 4 personnes</big> suivant l'it&eacute;ration (m&eacute;thode Agile).<br/>
 - Gestion de projet suivant le workflow MdP (cycle de vie, <big>estimation,
 planning, tracking</big>).
 </li>

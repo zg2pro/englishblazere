@@ -91,11 +91,11 @@
 </achat>
 <vente>
 <item>
-	<nature>Les bollingers se resserrent</nature>
+	<nature>Les bollinger se resserrent</nature>
 	<coefficient>1</coefficient>
 	</item>
 <item>
-	<nature>L'action a evolue sur une derniere hausse dans une journee de baisse, 
+	<nature>L'action a evole sur une derniere hausse dans une journee de baisse, 
 	il est au moins 15:00</nature>
 	<coefficient>1</coefficient>
 </item>
@@ -209,7 +209,7 @@
 	</vente>
 	<rachat>
 	<item>
-		<nature>Objectifs atteints</nature>
+		<nature>objectifs atteints</nature>
 		<coefficient>1</coefficient>
 	</item>
 	</rachat>
