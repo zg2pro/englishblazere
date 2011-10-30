@@ -25,7 +25,7 @@ function age($naiss)  {
 <body>
 
 <?php if ($hl == 'fr'){?>
-	<img src="../images/id.jpg" width="300" height="225" align="right" 
+	<img src="../images/id.jpg" width="340" height="225" align="right" 
 	border="0" alt="."/>
 	<?php } ?>
 	<br/><h4>
