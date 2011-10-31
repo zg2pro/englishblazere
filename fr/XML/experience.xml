@@ -23,30 +23,29 @@
 <li>Pre-paid Top-up Systems pour les fournisseurs d'acc&egrave;s mobiles : Plusieurs
 upgrades ont &eacute;t&eacute; men&eacute;es &agrave; terme.</li>
 <li> Cartes Cadeaux, Cartes de Fidelit&eacute; et syst&egrave;mes de gestion : 
-J'ai promu et vendu le syst&egrave;me aux clients, j'ai aussi am&eacute;lior&eacute; 
-les composants fonctionnels</li>
+promotion et vente du syst&egrave;me aux clients, am&eacute;lioration
+des composants fonctionnels</li>
 <li> Syst&egrave;mes embarqu&eacute;s de paiement par carte de cr&eacute;dit Visa &amp; Mastercard </li>		
-<li> Caisses enregistreuses : j'ai cr&eacute;&eacute; un logiciel middleware capable d'interagir entre
-le terminal connect&eacute; via une interface RS232 et toute application de gestion de vente au d&eacute;tail. J'ai sp&eacute;cifi&eacute;
-les paquets envoy&eacute;s via le port s&eacute;rie entre les caisses enregistreuses et le terminal, adapt&eacute;s pour SoftPay, ainsi
-que pour notre syst&egrave;me de comptes pr&eacute;pay&eacute;s. J'ai mis en place
-l'&eacute;change de ces messages en Java en utilisant l'API JavaComm. Enfin, j'ai fourni
-un acc&egrave;s standardis&eacute; &agrave; l'application middleware avec <big>CORBA</big>. Ensuite, j'ai fourni mon support
-&agrave; l'&eacute;quipe de l'entreprise partenaire (<a href="http://www.evietsoft.net/GCMS.aspx"> evietsoft </a>),
-les ai aid&eacute; &agrave; cr&eacute;er le client CORBA en mesure de dialoguer avec notre application middleware. </li>	
-<li> iPay : une solution de paiement en ligne que j'ai con&ccedil;u enti&egrave;rement</li> 
-<li>Service VIP : J'ai cr&eacute;&eacute; un add-on &agrave; iPay afin d'identifier les membres en utilisant les codes barres QR et
+<li> Caisses enregistreuses : cr&eacute;ation d'un logiciel middleware capable d'interagir entre
+le terminal connect&eacute; via une interface RS232 et toute application de gestion de vente au d&eacute;tail : sp&eacute;cification
+des paquets envoy&eacute;s via le port s&eacute;rie entre les caisses enregistreuses et le terminal, adapt&eacute;s pour SoftPay, ainsi
+que pour notre syst&egrave;me de comptes pr&eacute;pay&eacute;s. Mise en place de
+l'&eacute;change de ces messages en Java en utilisant l'API JavaComm, d'un
+acc&egrave;s standardis&eacute; &agrave; l'application middleware avec <big>CORBA</big>. Support
+&agrave; l'&eacute;quipe de l'entreprise partenaire (<a href="http://www.evietsoft.net/GCMS.aspx"> evietsoft </a>) </li>	
+<li> iPay : enti&eagrave;re conception d'une solution de paiement en ligne</li> 
+<li>Service VIP : cr&eacute;ation d'un add-on &agrave; iPay afin d'identifier les membres en utilisant les codes barres QR et
 g&eacute;rer des promotions sp&eacute;ciales. Le scanner QR utilise <a href="http://replycam.com/">replycam.com</a>: un client flash
 adapt&eacute; aux webcams.
-</li><li>PrepaidWebServices : J'ai cr&eacute;&eacute; une application <big>JAX-WS</big> pour que les comptes clients aient la possibilit&eacute;
+</li><li>PrepaidWebServices : cr&eacute;ation d'une application <big>JAX-WS</big> pour que les comptes clients aient la possibilit&eacute;
 de t&eacute;l&eacute;charger les journaux de transactions et les informations des cartes au format XML.
-</li><li>Bill Collectors : J'ai sp&eacute;cifi&eacute; un add-on pour Gift cards system et iPay, afin que les d&eacute;tenteurs de cartes
+</li><li>Bill Collectors : Sp&eacute;cification d'un add-on pour Gift cards system et iPay, afin que les d&eacute;tenteurs de cartes
 aient la possibilit&eacute; de payer leurs factures en utilisant leur comptes pr&eacute;pay&eacute;s.</li>
 <li> Syst&egrave;me de cryptage de la transmission des donn&eacute;es bancaires
-entre les terminaux POS et les serveurs d'applications bancaires : j'ai present&eacute; la solution aux comit&eacute;s directeurs des grandes
-		banques Vietnamiennes, J'ai install&eacute; une version pilote pour la plus grosse banque d'&eacute;tat du pays. </li>	
+entre les terminaux POS et les serveurs d'applications bancaires : pr&eacute;sentation de la solution aux comit&eacute;s directeurs des grandes
+		banques Vietnamiennes, installation d'une version pilote pour la plus grosse banque d'&eacute;tat du pays. </li>	
 <li>Appareils de paiements NFC : utilisation du Proximity Coupling Device - 
-		specification du circuit de transactions et des cas d'utilisation 
+		sp&eacute;cification du circuit de transactions et des cas d'utilisation 
 		pour plusieurs projets li&eacute;s &agrave; cette technologie</li>
 		<li> Transferts de fonds : Collaboration avec une soci&eacute;t&eacute; am&eacute;ricaine
 		afin d'offrir une nouvelle alternative aux transferts de fonds priv&eacute;s entre l'Am&eacute;rique
@@ -54,7 +53,7 @@ entre les terminaux POS et les serveurs d'applications bancaires : j'ai present&
 		SMS. </li>
 		<li> Integration de diverses applications sur un terminal unique </li>	
 		</ol>
-		En tant que leader du d&eacute;partement, J'ai aussi travaill&eacute; &agrave; l'am&eacute;lioration
+		En tant que leader du d&eacute;partement, j'ai aussi travaill&eacute; &agrave; l'am&eacute;lioration
 		des process (d&eacute;finition de guidelines de strat&eacute;gie, cr&eacute;ation
 		de workflows pour la maintenance et les nouveaux d&eacute;veloppements, apport
 		d'une approche de qualit&eacute;)
