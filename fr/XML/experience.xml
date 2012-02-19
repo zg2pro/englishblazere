@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <experience>
 	<item>
+		<organization>
+			<a href="http://www.apteagroup.fr"> 
+				<img src="http://englishblazere.free.fr/images/aptea.jpg" alt="Aptea" width="120" height="70" border="0" />
+			</a> <br/>Boulogne-Billancourt (92)
+		
+		</organization>
+		<date>
+		Depuis Janvier 2012
+		
+		</date>
+		<role>
+			<big><b>Chef de projet Jr</b></big>
+			<br/><br/>Puisque je suis arriv&eacute; imm&eacute;diatement suite &agrave; la conclusion du march&eacute;, j'ai eu le privil&egrave;ge 
+			de pouvoir initier le d&eacute;veloppement du projet (1000MD) sur la base du cahier des charges et de la r&eacute;ponse &agrave; l'appel d'offre.
+			<br/><br/>J'ai &eacute;tudi&eacute; toutes les technologies qui avaient &eacute;t&eacute; propos&eacute;es et devaient &ecirc;tre embarqu&eacute;es dans 
+			l'architecture et j'ai document&eacute; ces &eacute;tudes pour l'&eacute;quipe &agrave; venir.
+			<br/><br/>J'ai guid&eacute; la construction d'un prototype avec SpringMVC - EJB3 - JPA - Solr - BonitaSoft et JQuery pour les maquettes des interfaces. 
+			J'ai cr&eacute;&eacute; un environnement de d&eacute;veloppement avec Eclipse-Maven-SVN.
+			<br/><br/>Ensuite, nous avons entam&eacute; la production d'un document de sp&eacute;cifications fonctionnelles bas&eacute; sur une repr&eacute;sentation UML et BPM, dans ce but nous rencontrons notre client deux fois par semaine.
+		
+		</role>
+	</item>
+	<item>
 			<organization>
 	 <a href="http://www.ionetwork.com"> 
 		<img src="http://englishblazere.free.fr/images/ionetwork.jpg" alt="IO-Network" width="120" height="70" border="0" />
@@ -11,8 +34,48 @@
 		Octobre 2009 &agrave; Octobre 2011
 			</date>
 			<role>
-	Chef de Projet 
-		<br/> <big>Responsable d'une &eacute;quipe de 6 personnes.</big>
+				<big><b>Project Manager @ Payment Solutions </b></big>
+				<br/><br/> Direction du d&eacute;partement "<i>Solutions de Paiement</i>" de IO-Network, Pilotage de projets, Encadrement de 6 IED, Solutioning, Prospecting, Vente, AMOA, 
+				Sp&eacute;cification et Conception, Contribution &agrave; Impl&eacute;mentation, Recette et Maintenance.
+				<br/><br/>
+				<h7>Projet Principal</h7><br/>
+				Oct 09-Oct 11 (continu) Prepaid&amp;Loyalty<br/>
+				Prepaid&amp;Loyalty est un syst&egrave;me de gestion de comptes pr&eacute;pay&eacute;s que nous fournissions en
+				SaaS &agrave; diff&eacute;rents marchands, comptes, holdings, sub-holdings (type cartes voucher ou
+				cartes de fid&eacute;lit&eacute;). Nous apportions les am&eacute;liorations logicielles n&eacute;cessaires aux besoins
+				clients, nous maintenions le service actif (hotline, formation de caissiers, audit), nous
+				fournissions aussi les terminaux de paiement en tant que distributeur des banques
+				vietnamiennes (VietinBank, AgriBank, SaigonBank). &Agrave; partir de l'expression des besoins :
+				<ol>
+					<li>Cr&eacute;ation d'une plate-forme de paiement en ligne sur le mod&egrave;le de <a href="https://www.alipay.com/">alipay</a> :
+						<a href="http://www.ipay.vn">www.ipay.vn</a> </li>
+					<li>Cr&eacute;ation d'un module de communication Prepaid&amp;Loyalty embarqu&eacute; sur EDC vers
+						les logiciels de caisse enregistreuse.
+					</li> <li>Cr&eacute;ation de rapports sp&eacute;ciaux d&eacute;taill&eacute;s pour les transactions
+					</li> <li>Cr&eacute;ation d'&eacute;v&eacute;nements et de politiques marketing sur les comptes pr&eacute;pay&eacute;s
+					(eg : parrainage de membres clients finaux)
+				</li> <li>Cr&eacute;ation de web-services fournissant aux ERP et CRM clients les d&eacute;tails des
+					transactions
+				</li> <li>Int&eacute;gration avec Prepaid&amp;Loyalty d'applications EMV bancaires sur terminal
+					Verifone + test.</li> 
+
+				</ol>
+
+		<br/><h7>Autres Projets</h7>
+		<br/>Adoption au Vietnam de diverses autres solutions de paiement import&eacute;es de Malaisie,
+		Singapour, Isra&euml;l, USA : Lines Encryption System (cryptage des transactions EMV),
+		Prepaid TopUp System (TopUp cr&eacute;dits de t&eacute;l&eacute;phonie mobile), NFC, m-coupon.
+		Am&eacute;lioration des process de gestion de projet : d&eacute;finition de guidelines de strat&eacute;gie,
+		cr&eacute;ation de workflows pour la maintenance et les nouveaux d&eacute;veloppements, apport d'une
+		approche de qualit&eacute;.
+		
+		<br/><br/><h7>Environnement</h7>
+		<br/>WINDOWS ISA SERVER, TOMCAT, JAVA/JEE (jPOS, Torque), SQL SERVER, WAMP,
+		Verifone Vx500, C, Ubuntu, CentOS, Eclipse, Maven, SVN, Mantis, Wiki, Testlink, UML,
+		PNML, BPML, CORBA, JAX-WS, Shell, ANGLAIS &amp; MANGLISH exclusifs.
+
+				
+		<!--big>Responsable d'une &eacute;quipe de 6 personnes.</big>
 		<br/> <big>Gestion de Projet, R&amp;D et Solutioning</big>
 		<br/> <big>Analyse de besoins aupr&egrave;s des clients</big>, Sp&eacute;cification &amp; Conception
 		<br/> Technologies utilis&eacute;es : Applications serveur: Java, Microsoft SQL Server, Eclipse <br/> 
@@ -56,7 +119,7 @@ entre les terminaux POS et les serveurs d'applications bancaires : pr&eacute;sen
 		En tant que leader du d&eacute;partement, j'ai aussi travaill&eacute; &agrave; l'am&eacute;lioration
 		des process (d&eacute;finition de guidelines de strat&eacute;gie, cr&eacute;ation
 		de workflows pour la maintenance et les nouveaux d&eacute;veloppements, apport
-		d'une approche de qualit&eacute;)
+		d'une approche de qualit&eacute;) -->
 			</role>
 	</item>
 	<item>
@@ -70,7 +133,7 @@ entre les terminaux POS et les serveurs d'applications bancaires : pr&eacute;sen
 		Mars &agrave; Aout 2009
 			</date>
 			<role>
-	<u>Stage conventionn&eacute; de fin d'&eacute;tudes :</u> 
+	<!--u>Stage conventionn&eacute; de fin d'&eacute;tudes :</u> 
 		<br/> Participation aux projets de l'&eacute;quipe "MdP", experte en technologies Java/J2E 
 		(travail collaboratif bas&eacute; sur des <big>frameworks Hibernate/Spring/Struts, Mantis bugtracker, Subversion</big>)
 		&Eacute;volution du statut et des t&acirc;ches suivant les projets:
@@ -115,8 +178,35 @@ CMMI Awareness : Participation aux sessions de formation dans
 l'optique d'une certification du centre de d&eacute;veloppement
 </li>
 
-		</ol>
-		
+		</ol-->
+		<big><b>Stage conventionn&eacute; de fin d'&eacute;tudes</b></big>
+		<br/><br/> D&eacute;veloppement Offshore pour IBM France, Business Analysis, pilotage d'un projet
+		interne du GDC.<br/><br/>
+		Le programme dont je faisais partie (MdP -15 personnes-) d&eacute;veloppait enti&egrave;rement le SI de
+		la Mairie de Paris. Le programme &eacute;tait d&eacute;coup&eacute; en sous-cellules, chacune charg&eacute;e de
+		d&eacute;velopper un module de la suite applicative (exemples : T&eacute;l&eacute;Service-Annuaire, TS-RH,
+		TS-Subventions etc). J'ai fait tour &agrave; tour partie de cellules positionn&eacute;es sur des modules en
+		phase de maintenance, et en phase d'impl&eacute;mentation, puis j'ai travaill&eacute; comme Business
+		Analyst.
+
+		<br/><br/><h7>Projet</h7>
+		<br/>Juin-09 &agrave; Ao&ucirc;t-09 (3 mois) Pilotage de "<i>Mantis-Project</i>"
+		<br/>Transformation de Mantis en un outil de gestion de projet pouvant &ecirc;tre commun au GDC
+		entier. Proposition avec le Program Manager MdP du projet aupr&egrave;s du IBM Delivery
+		Excellence Service. Mise en route, d&eacute;veloppement en RUP (m&eacute;thode Agile) => pour
+		chaque it&eacute;ration (5) :
+		<ol>
+		<li>Corrections pr&eacute;c&eacute;dente it&eacute;ration
+		</li><li>Conception
+		</li><li>D&eacute;veloppement
+		</li><li>Sp&eacute;cification par points de fonction it&eacute;ration suivante
+		</li><li>Estimation de charge, planning
+		</li><li>R&eacute;vision de l'it&eacute;ration par DE, kick-off next.</li>
+	</ol>
+		<br/><h7>Environnement</h7>
+		<br/>Mantis, UML, Prototypage &eacut;cran HTML, CSS - PHP, Ajax, JS, MySQL, JEE (Hibernate-
+		Spring-Struts), CMMI-3 (objectif 5), RUP, ANGLAIS.
+
 			</role>
 	</item>
 	<item>
