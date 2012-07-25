@@ -14,13 +14,20 @@
 		<role>
 			<big><b>Chef de projet Jr</b></big>
 			<br/><br/>Puisque je suis arriv&eacute; imm&eacute;diatement suite &agrave; la conclusion du march&eacute;, j'ai eu le privil&egrave;ge 
-			de pouvoir initier le d&eacute;veloppement du projet (1000MD) sur la base du cahier des charges et de la r&eacute;ponse &agrave; l'appel d'offre.
-			<br/><br/>J'ai &eacute;tudi&eacute; toutes les technologies qui avaient &eacute;t&eacute; propos&eacute;es et devaient &ecirc;tre embarqu&eacute;es dans 
+			de pouvoir initier le d&eacute;veloppement du projet (1000MD) sur la base du cahier des charges et de la r&eacute;ponse 
+			&agrave; l'appel d'offre.
+			<br/><br/>J'ai particip&eacute; &agrave; la construction d'un Plan d'Assurance Qualit&eacute; autour d'un cycle de vie logiciel en V. 
+			Le projet consiste en une refonte compl&eagrave;te d'un existant en l'integrant &agrave; un portail web, et en apportant
+			de nouvelles r&egrave;gles de workflow (domaine : service public).
+			<br/><br/>Une longue phase d'analyse des besoins aupr&egrave;s de la ma&icirc;trise d'ouvrage, m'a permis de r&eacute;diger le document de 
+			sp&eacute;cifications d&eacute;taill&eacute;es, r&eacute;parti en plusieurs volumes correspondant aux principales valeurs m&eacute;tier
+			du projet. Ce document utilise principalement les standards UML et BPM.
+			<br/><br/>J'ai &eacute;tudi&eacute; les technologies qui avaient &eacute;t&eacute; propos&eacute;es et devaient &ecirc;tre embarqu&eacute;es dans 
 			l'architecture et j'ai document&eacute; ces &eacute;tudes pour l'&eacute;quipe &agrave; venir.
 			<br/><br/>J'ai guid&eacute; la construction d'un prototype avec SpringMVC - EJB3 - JPA - Solr - BonitaSoft et JQuery pour les maquettes des interfaces. 
 			J'ai cr&eacute;&eacute; un environnement de d&eacute;veloppement avec Eclipse-Maven-SVN.
-			<br/><br/>Ensuite, nous avons entam&eacute; la production d'un document de sp&eacute;cifications fonctionnelles bas&eacute; sur une repr&eacute;sentation UML et BPM, dans ce but nous rencontrons notre client deux fois par semaine.
-		
+			<br/><br/>Je suis aujourd'hui le r&eacute;f&eacute;rant m&eacute;tier de l'&eacute;quipe de d&eacute;veloppement qui r&eacute;alise 
+			le logiciel.
 		</role>
 	</item>
 	<item>
