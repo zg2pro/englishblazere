@@ -5,14 +5,18 @@ $ext_string['title.h1'] = "<h1 class=\"h1_1_line\">ING&Eacute;NIEUR / ARCHITECTE
 <br/>
 TECHNICAL LEAD ET GESTION DE PROJET</h1>";
 
-$ext_string['address.permanent.street'] = "c/o FRATELLIA, 4 square des po&egrave;tes";
-$ext_string['address.permanent.town'] = "91370 Verrieres le Buisson";
-$ext_string['address.permanent.country'] = "FRANCE";
+//$ext_string['address.permanent.street'] = "c/o FRATELLIA, 4 square des po&egrave;tes";
+$ext_string['address.permanent.street'] = "13, rue des Tilleuls - Appt 10";
+$ext_string['address.permanent.town'] = "92100 Boulogne Billancourt";
+//$ext_string['address.permanent.town'] = "91370 Verrieres le Buisson";
 //$ext_string['address.permanent.street'] = "140 rue Pierre et Marie Curie";
 //$ext_string['address.permanent.town'] = "83340 Le Luc";
-$ext_string['number.mobile'] = "Mobile : +84.1.265.772.361.";
-//$ext_string['number.landline'] = "Fixe : +33.4.94.47.98.55.";
-$ext_string['number.landline'] = "Landline : +33.1.60.11.23.58.";
+$ext_string['address.permanent.country'] = "FRANCE";
+//$ext_string['number.mobile'] = "Mobile : +84.1.265.772.361.";
+$ext_string['number.mobile'] = "Mobile : +33.6.51.10.79.79";
+//$ext_string['number.landline'] = "Landline : +33.4.94.47.98.55.";
+//$ext_string['number.landline'] = "Landline : +33.1.60.11.23.58.";
+$ext_string['number.landline'] = "Landline : +33.9.52.18.26.27";
 $ext_string['mail'] = "Mail : Gregory.Anne83@gmail.com";
 
 $ext_string['summary.head'] = "Sommaire";
