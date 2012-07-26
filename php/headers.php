@@ -25,11 +25,11 @@ function age($naiss)  {
 <body>
 
 <?php if ($hl == 'fr'){?>
-	<img src="../images/id.jpg" width="340" height="225" align="right" 
+	<img src="../img/id.jpg" width="340" height="225" align="right" 
 	border="0" alt="."/>
 	<?php } ?>
 	<br/><h4>
-	<img src="../images/Ggrreyggoyrbyy_bArnbnreb_blue.png" width="300" height="50" alt="Gr&eacute;gory ANNE"/>
+	<img src="../img/Ggrreyggoyrbyy_bArnbnreb_blue.png" width="300" height="50" alt="Gr&eacute;gory ANNE"/>
 	<!--born in September the 6th 1983 (25 yo), single.-->
 	</h4>
 	<?php if ($hl == 'fr'){?>
@@ -49,25 +49,25 @@ function age($naiss)  {
 
 
     <a href="http://www.developpez.net/forums/u158055/zg2pro/">
-    <img src="../images/social_icons/developpez.png" width="40" height="40" alt="."/>
+    <img src="../img/social_icons/developpez.png" width="40" height="40" alt="."/>
     </a>
     <a href="http://www.facebook.com/zg2pro">
-    <img src="../images/social_icons/Facebook.png"  width="40" height="40" alt="."/>
+    <img src="../img/social_icons/Facebook.png"  width="40" height="40" alt="."/>
     </a>
     <a href="http://www.linkedin.com/in/gregoryanne83">
-    <img src="../images/social_icons/Linkedin.png"  width="40" height="40" alt="."/>
+    <img src="../img/social_icons/Linkedin.png"  width="40" height="40" alt="."/>
     </a>
     <a href="http://www.twitter.com/zg2pro">
-    <img src="../images/social_icons/Twitter.png"  width="40" height="40" alt="."/>
+    <img src="../img/social_icons/Twitter.png"  width="40" height="40" alt="."/>
     </a>
     <a href="http://ubuntuforums.org/member.php?u=757219">
-    <img src="../images/social_icons/ubuntu.png"  width="40" height="40" alt="."/>
+    <img src="../img/social_icons/ubuntu.png"  width="40" height="40" alt="."/>
     </a>
     <a href="http://www.viadeo.com/en/profile/gregory.anne1">
-    <img src="../images/social_icons/Viadeo.png"  width="40" height="40" alt="."/>
+    <img src="../img/social_icons/Viadeo.png"  width="40" height="40" alt="."/>
     </a>
     <a href="http://www.youtube.com/zg2pro">
-    <img src="../images/social_icons/Youtube.png"  width="40" height="40" alt="."/>
+    <img src="../img/social_icons/Youtube.png"  width="40" height="40" alt="."/>
     </a>
     
     </div>
@@ -109,7 +109,7 @@ function age($naiss)  {
 	<li><a href="../<?php if ($hl == 'en') echo 'fr'; else echo 'en' ?>/index.php?p=<?php echo $p; ?>">
 	<img src="../images/<?php if ($hl == 'en') echo 'fr'; else echo 'en' ?>.gif" alt="<?php if ($hl == 'en') echo 'fr'; else echo 'en' ?>" width="35" height="35" border="0" vspace="6"  align="middle"/>
 	<?php echo $ext_string["tools.vf"]; ?> </a></li>
-	<li><a href="../PDF/CV<?php echo $hl; ?>_GregANNE.pdf">
+	<li><a href="../pdf/CV<?php echo $hl; ?>_GregANNE.pdf">
 	<img src="../images/printer.gif" alt="." width="35" height="35" border="0" vspace="6" align="middle"/>
 	<?php echo $ext_string["tools.p"]; ?> </a></li>
 	<li>
@@ -183,8 +183,8 @@ function age($naiss)  {
 
 <br/><br/><br/>
 
-<script src="../JS/ssm.js" type="text/javascript"></script>
-<script src="../JS/ssmItems.js" type="text/javascript"></script>
+<script src="../js/ssm.js" type="text/javascript"></script>
+<script src="../js/ssmItems.js" type="text/javascript"></script>
 
 
 	</div>

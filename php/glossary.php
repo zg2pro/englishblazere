@@ -1,7 +1,7 @@
 	<script type="text/javascript" src="../JS/Tables.js"></script>
 	
 <?php 
-require_once('../PHP/colourgradient.class.php');
+require_once('../php/colourgradient.class.php');
 $gradient = new ColourGradient();
 $gradient[0]  = '0000AA';
 $gradient[50] = 'red';

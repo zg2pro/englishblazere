@@ -12,7 +12,7 @@ session_start();
 	
 	foreach ($titles as $ind=>$val){
 
-		$file_name = "XML/$val.xml";
+		$file_name = "xml/$val.xml";
 		// if(file_exists($file_name)) echo "File exists";
 		// else echo "$file_name";
    		$xml_text = file_get_contents($file_name);
@@ -42,7 +42,7 @@ session_start();
 		
 		$xsl = new DOMDocument;
 		$xsl->substituteEntities = true;
-		$xsl->load('../XSL/'.$val.'.xsl');
+		$xsl->load('../xsl/'.$val.'.xsl');
 		
 		//echo $xsl->saveXML();
 		

@@ -47,8 +47,8 @@
 		<th>Degree</th>
 		<th>Summary</th>
 		</xsl:if>
-			<xsl:if test="$hl='fr'">
-			<th>Promotion</th>
+		<xsl:if test="$hl='fr'">
+		<th>Promotion</th>
 		<th>Titre</th>
 		<th>Contenu</th>
 			</xsl:if>
