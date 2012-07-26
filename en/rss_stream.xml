@@ -21,58 +21,29 @@
 </tr>
 <tr>
 <td>
-			
-		<a href="http://www.ionetwork.com"> 
-		<img src="../images/ionetwork.jpg" alt="IO-Network" width="120" height="70" border="0" />
-		</a> <br/>Ho Chi Minh City (Vietnam)
-	
+			<a href="http://www.apteagroup.fr"> 
+				<img src="http://englishblazere.free.fr/img/aptea.jpg" alt="Aptea" width="120" height="70" border="0" />
+			</a> <br/>Boulogne-Billancourt (Paris Region)
 		
-			</td>
+		</td>
 <td>
-		October 2009 till now
-			</td>
+		Since January 2012
+		
+		</td>
 <td>
-		Project Manager 
-		<br/> <big>Manages a 6-person team</big>
-		<br/> <big>Project Management, R&amp;D &amp; Solutioning</big>
-		<br/> <big>Needs analysis alongside with customers</big>, Specification &amp; Design 
-		<br/> Technologies: Transaction Host: Java, Microsoft SQL Server, Eclipse <br/> 
-		Terminal programming: Verifone Vx510, ARM Compiler, Source Insight, C <br/> 
-		Miscellaneous: UML, SVN, Testlink, Mantis, Google Apps...
-		<br/> Payment Solutions projects for South-East Asian market:
-		<ol> 
-		<li> Pre-paid Top-up Systems for mobile phone suppliers (I achieved several upgrades
-		on the main customer's running system) </li> 
-		<li> Gift Cards, Loyalty Cards and management systems (I promoted and sold the system
-		customers, also enhanced functionalities)</li> 
-		<li> Electronic Cash Registers: I created a middleware software to interact between
-		the terminal connected via RS232 and any retail management application. I specified 
-		the packets sent via serial between the ECR and the terminal, adapted for Softpay. I implemented
-		the exhange of these messages in Java using Javacomm API. Finally I provided a
-		standardized access to this middleware application using <big>CORBA</big>. Then I coached 
-		the team in the partner company (<a href="http://www.evietsoft.net/GCMS.aspx">evietsoft</a>), 
-		helped them to create the CORBA client able to use our middleware application. </li>
-<li> iPay: an online payment functionality for Gift Cards System (which I entirely designed)</li> 
-		<li> VIP Service: I created an add-on to iPay to identify members using QR codes and
-process vip rewards. The QR code scanner uses <a href="http://replycam.com/">replycam.com</a>: a flash client for
-webcams.
- 
-		</li><li> Bill Collectors: I specified an add-on for Gift cards system and iPay, so card
-holders have the possibility to pay their bills using our prepaid accounts.
- </li>
-		<li> Lines Encryption System between Point-Of-Sales and banking application servers
-		(I introduced the product at the banks headquarters, I installed a pilot version for the biggest state-owned bank in the country)</li>		
-		<li> NFC Payment System &amp; devices (using Proximity Coupling Device - 
-		I specified the flow of transactions and all other main aspects for several projects
-		bound to this technology)</li>	
-		<li> Funds Transfer (I partnered a US Corporation to organize Prepaid and
-			Mastercard-based funds transfers between North America and Vietnam using SMS)</li>
-		<li> Integration of various applications on a standalone terminal </li>
-		</ol>
-		As a department lead, I also worked at improving the process (I defined the strategy
-		guidelines, I created workflows for maintenance and new developments and I also 
-		brought a quality approach).
-			</td>
+			<big><b>Jr Project Management Officer</b></big>
+			<br/><br/>Since I arrived immediately after the deal was concluded, I had the honour and pleasure to initiate the 
+			development of the project (1000 MD) basing on the scope statements and the RFP answer.
+			<br/><br/>I co-wrote a QA & QC project plans document, basing on a V-model. The project purpose is refactoring 
+			a whole information system, integrating it along with a web portal, and adding new workflow rules (domain: public service)
+			<br/><br/>A long business analysis phase supported by the client allowed me to write the detailed SRS document, which I splitted
+			out in several volumes, concerning each main skill component of the project. This document uses basically UML and BPM standards.
+			<br/><br/>I studied the technologies that could be embedded in the architecture and documented 
+			them for the team which would be joining me soon.
+			<br/><br/>I led the build of a prototype with SpringMVC - EJB3 - JPA - Solr - BonitaSoft - and JQuery UI mock-ups. 
+			Created a development environment with Eclipse-Maven-SVN.
+			<br/><br/>I am today in charge of all business concerns for the team, which members are now making the software.
+		</td>
 </tr>
 </tbody></table>]]></description></item><item><title>Last Degree</title><link>http://englishblazere.free.fr/en/index.php?p=mycv#education</link><guid>http://englishblazere.free.fr/en/index.php?p=mycv#education</guid><pubDate>Tue, 9 Aug 2009 16:20:00 GMT</pubDate><description><![CDATA[<table align="center" border="2" summary="your browser cannot display tables"><tbody><tr><th>Year</th><th>Degree</th><th>Summary</th></tr><tr><td>2009
 		</td><td>

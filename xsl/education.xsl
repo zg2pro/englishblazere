@@ -26,13 +26,13 @@
 <table align="center">
 <tr>
 <td><a href="http://www.univ-tln.fr/"> 
-	 	<img src="../images/u_toulon.png" width="300" height="44" 
+	 	<img src="../img/u_toulon.png" width="300" height="44" 
 	border="0" alt="Universite de Toulon et du Var (83)"/>
 	 </a> </td><td><a href="http://www.ujf-grenoble.fr/">
-	<img src="../images/UJFlogo.gif" width="300" height="77" 
+	<img src="../img/UJFlogo.gif" width="300" height="77" 
 	border="0" alt="Universite Joseph Fourier	Grenoble I (38)"/>
 	</a></td><td><a href="http://www.univ-cezanne.fr/"> 
-		<img src="../images/logo_u3.jpg" width="300" height="70" 
+		<img src="../img/logo_u3.jpg" width="300" height="70" 
 	border="0" alt="Universite Aix-Marseille III (13)"/>
 		</a> </td>
 </tr>

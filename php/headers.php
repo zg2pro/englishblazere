@@ -97,36 +97,36 @@ function age($naiss)  {
 	<ul>
 	<li>
 	<?php if ($p != "mycv") echo "<a href='index.php?p=mycv'>"; ?>
-	<img src="../images/home.png" alt="." width="50" height="50" border="0" align="middle" />
+	<img src="../img/home.png" alt="." width="50" height="50" border="0" align="middle" />
 	<?php echo $ext_string["tools.h"]; ?>
 	<?php if ($p != "mycv") echo "</a>"; ?></li>
 	<li>
 	<?php if ($p != "glossary") echo "<a href='index.php?p=glossary'>"; ?>
-	<img src="../images/glossary.jpg" alt="." width="50" height="50" border="0" align="middle" />
+	<img src="../img/glossary.jpg" alt="." width="50" height="50" border="0" align="middle" />
 	<?php echo $ext_string["tools.g"]; ?>
 	<?php if ($p != "glossary") echo "</a>"; ?>
 	</li>
 	<li><a href="../<?php if ($hl == 'en') echo 'fr'; else echo 'en' ?>/index.php?p=<?php echo $p; ?>">
-	<img src="../images/<?php if ($hl == 'en') echo 'fr'; else echo 'en' ?>.gif" alt="<?php if ($hl == 'en') echo 'fr'; else echo 'en' ?>" width="35" height="35" border="0" vspace="6"  align="middle"/>
+	<img src="../img/<?php if ($hl == 'en') echo 'fr'; else echo 'en' ?>.gif" alt="<?php if ($hl == 'en') echo 'fr'; else echo 'en' ?>" width="35" height="35" border="0" vspace="6"  align="middle"/>
 	<?php echo $ext_string["tools.vf"]; ?> </a></li>
 	<li><a href="../pdf/CV<?php echo $hl; ?>_GregANNE.pdf">
-	<img src="../images/printer.gif" alt="." width="35" height="35" border="0" vspace="6" align="middle"/>
+	<img src="../img/printer.gif" alt="." width="35" height="35" border="0" vspace="6" align="middle"/>
 	<?php echo $ext_string["tools.p"]; ?> </a></li>
 	<li>
 	 <!-- Google Code -->
 <a href="http://code.google.com/u/gregory.anne83/">
 <!-- img src="http://s7.addthis.com/static/btn/sm-share-en.gif" width="175px" height="35px" alt="Bookmark and Share" style="border:0"/ -->
-<img src="../images/code_small.png"  alt="." width="70" height="50" border="0" align="middle"/> <?php echo $ext_string["tools.portfolio"]; ?>
+<img src="../img/code_small.png"  alt="." width="70" height="50" border="0" align="middle"/> <?php echo $ext_string["tools.portfolio"]; ?>
 </a></li>
 	<li>
 	 <!-- AddThis Button BEGIN -->
 <a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4b3dcb743f1853c4">
 <!-- img src="http://s7.addthis.com/static/btn/sm-share-en.gif" width="175px" height="35px" alt="Bookmark and Share" style="border:0"/ -->
-<img src="../images/addThis.png"  alt="." width="50" height="50" border="0" align="middle"/> <?php echo $ext_string["tools.s"]; ?>
+<img src="../img/addThis.png"  alt="." width="50" height="50" border="0" align="middle"/> <?php echo $ext_string["tools.s"]; ?>
 </a>
 <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4b3dcb743f1853c4"></script>
 <!-- AddThis Button END --></li>
-	<li><a href="rss_stream.xml"><img src="../images/rss.png" alt="." width="35" height="35" border="0" vspace="6" align="middle"/>  &nbsp;<?php echo $ext_string["tools.rss"]; ?></a></li>
+	<li><a href="rss_stream.xml"><img src="../img/rss.png" alt="." width="35" height="35" border="0" vspace="6" align="middle"/>  &nbsp;<?php echo $ext_string["tools.rss"]; ?></a></li>
 </ul>
 </div>
 	<br/><br/><br/>
