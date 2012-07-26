@@ -74,7 +74,7 @@
     
     
 
-		$file_name = '../'.$hl.'/XML/education.xml';
+		$file_name = '../'.$hl.'/xml/education.xml';
 		// if(file_exists($file_name)) echo "File exists";
 		// else echo "$file_name";
    		$xml_text = file_get_contents($file_name);
@@ -99,7 +99,7 @@
 		
 		$xsl = new DOMDocument;
 		$xsl->substituteEntities = true;
-		$xsl->load('../XSL/education.xsl');
+		$xsl->load('../xsl/education.xsl');
 		
 		//echo $xsl->saveXML();
 		
