@@ -1,5 +1,5 @@
 	<title>Gr&eacute;gory ANNE 's Curriculum Vitae</title>
-	<link href="../CSS/mycv.css" rel="stylesheet"	type="text/css" />
+	<link href="../css/mycv.css" rel="stylesheet"	type="text/css" />
 	<link rel="alternate" type="application/rss+xml" href="../<?php echo $hl; ?>/rss_stream.xml"/> 
 	<meta lang="en" xml:lang="en"  content="Gregory Anne CV" />
 </head>
