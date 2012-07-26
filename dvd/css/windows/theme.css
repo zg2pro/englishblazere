@@ -1,0 +1,35 @@
+body {background-color:ThreeDFace}
+
+#breadcrumbsbanner{background-color:menu;}
+#leftpart4datebanner,#userinfo{background-color:menu;}
+#businessbanner{background-color:menu;border-top:1px solid ThreeDShadow;border-bottom:0px solid ThreeDShadow;}
+
+.actionstoolbar{background:menu;
+background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, menu), color-stop(1, #dfe3e8));
+background-image: -moz-linear-gradient(top, #dfe3e8, menu);
+filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr='menu', EndColorStr='#dfe3e8');
+}
+.actionstoolbarfooter{background:menu;
+background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #dfe3e8), color-stop(1, menu));
+background-image: -moz-linear-gradient(top, menu, #dfe3e8);
+filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr='#dfe3e8', EndColorStr='menu');
+}
+
+.menu{background:menu;}
+#menuleft li{background:menu;border-color:White;border-width:0 0 1px 0;border-style:solid;}
+#menuleft .menunav li{background:White;border-color:PowderBlue;border-width:0 0 1px 0;border-style:solid;}
+#menuleft .menunav li{background:menu;border-color:window;border-width:0 0 1px 0;border-style:solid;}
+#menuleft .menunav li a{color:#000;}
+
+		.data{background-color:window;}
+		.table-galitem {position:relative;width:100%;}
+		.table-galitem th{border:1px solid #DADCDD;background:#DFE3E8;text-align:center;height:2em;padding-top:.2em;}
+		.table-galitem td{border:1px solid #DADCDD;background:window;vertical-align:top;text-indent:.2em;height:2em;padding-top:.2em;}
+
+		/*.footer.menu,.footer .pagetoolbar{background:white;}*/
+
+#ViewSelectAll {position:relative;background-color:inherit;height:20px;line-height:1.2em;}
+input.sbuttonCheckAll{background-color:#ececec;color:#000000;border: none; width:40px;background-image: url(../images/radioCheck_on.gif);background-repeat: no-repeat;cursor:pointer;}
+
+body.window{background:White;color:WindowText;}
+body.window form{background:ThreeDFace;color:WindowText;}

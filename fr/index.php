@@ -61,9 +61,9 @@ pageTracker._trackPageview();
 require_once('headers.strings.php');
 require_once('glossary.strings.php');
 
-require_once ("../PHP/rss.php");
-require_once ("../PHP/headers.php");
-if (file_exists ("../PHP/".$p.".php")) require_once ("../PHP/".$p.".php");
+require_once ("../php/rss.php");
+require_once ("../php/headers.php");
+if (file_exists ("../php/".$p.".php")) require_once ("../php/".$p.".php");
 else {
 if (file_exists ($p.".php")) require_once ($p.".php");
 else {

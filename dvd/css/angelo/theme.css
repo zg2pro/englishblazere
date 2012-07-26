@@ -1,0 +1,56 @@
+body{background-color:SkyBlue;} body *font-family:Tahoma, Geneva, sans-serif;}
+
+
+
+#datebanner{background:white;}
+  
+#breadcrumbsbanner{color:SkyBlue;background-color:white;}
+  #breadcrumbsbanner *{color:SkyBlue;}  
+#businessbanner{color:SkyBlue;background:url(images/cloudborderb3.png) repeat-x;border-top:0px solid PowderBlue;border-bottom:0px solid PowderBlue;}
+  #search_Value_Global{border: solid 1px skyblue;}
+#ContainerNavigationTab, #ContainerToolTab {background: transparent url(images/cloudlistt1.png) repeat;}
+#ContainerNavigationTab li span a,#ContainerToolTab li span a{color:#175CB6;}
+#ContainerToolTab li span.ToolTabSeparator{/*border:solid 1px SkyBlue;background-color:SkyBlue;*/}
+#ContainerNavigationTab li span,#ContainerToolTab li span{border-bottom:solid 2px SkyBlue;}
+#footerbanner{background-color:transparent;}
+  #sentence4footerbanner{width:256px;height:32px;background:url(images/cloud-256x32.png) repeat;}
+
+.menu{background:none;}
+#menuleft{background:none;}
+#menuleft li{background:none;border-color:White;border-width:0 0 1px 0;border-style:solid;}
+#menuleft .menunav li{background:none;border-color:PowderBlue;border-width:0 0 0 0;border-style:solid;}
+
+    #dDataTable{padding:6px;background: url(images/cloudbordert1.png) 0% -15px repeat-x, url(images/cloudborderr1.png) 101% top repeat-y, url(images/cloudborderb1.png) 0% 102% repeat-x, url(images/cloudborderl1.png) -15px repeat-y;}
+		.data{background:transparent url(images/cloudbgk.png) repeat;}
+		.data>form{border:solid 0px red;padding:24px;width:94%;}
+		.table-galitem {position:relative;width:100%;}    
+		.table-galitem tr.darker{background-color:none;}
+		.table-galitem th{border:1px solid #DADCDD;background:transparent url(images/cloudbgkd.png) repeat;text-align:center;height:2em;padding-top:.2em;}
+		.table-galitem td{border:1px solid #DADCDD;vertical-align:top;text-indent:.2em;height:2em;padding-top:.2em;}
+    .datatfooter {display:none;margin:0 0 0 30px;width:94%;background: url(images/cloudbgkcircle.png) repeat;}
+    .datatfooter .table-galitem th{background:none;}
+
+#ViewSelectAll {position:relative;background-color:inherit;height:20px;line-height:1.2em;}
+input.sbuttonCheckAll{background-color:#ececec;color:Black;border: none; width:40px;background-image: url(../images/radioCheck_on.gif);background-repeat: no-repeat;cursor:pointer;}
+	
+body.window{background-color:SkyBlue;color:WindowText;padding:1em;}
+.window form{background:transparent url(images/cloudbgk.png) repeat;}
+
+  /*  jquery.anim.god world */
+.god{width:480px;height:346px;position:absolute;left:1500px;top:70px;z-index:-1;background:url(images/god-face-480.gif) repeat top left}
+.clouddayl{background:url(images/cloud.png) repeat top left;}
+.cloudnight{background:url(images/cloud_night.gif) repeat top left;}
+.cloudrain{background:url(images/cloud_rain.gif) repeat top left;}
+#cloudnb1{width:267px;height:160px;position:absolute;left:-446px;top:160px;z-index:-3;}
+#cloudnb2{width:267px;height:160px;position:absolute;left:-266px;top:100px;z-index:-2}
+#night{color:white;position:absolute;left:0px;top:0px;z-index:399;width:100%;height:0%;background:black url(images/night.gif) repeat-x top left;
+  filter:alpha(opacity=0);
+  opacity:0.0;  
+}
+
+.sun{width:480px;height:480px;background:url(images/sun.png) repeat top left;}
+#sunnb1{position:absolute;left:-80px;top:-60px;z-index:-10;}
+.moon{width:360px;height:360px;background:url(images/moon.png) repeat top left;}
+#moonnb1{position:absolute;left:1200px;top:-80px;z-index:-10;display:none;}
+
+#fbpax{position:absolute;left:-1200px;top:720px;z-index:300;}
