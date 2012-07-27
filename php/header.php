@@ -38,6 +38,9 @@
 <i class="icon-briefcase"></i>
 	 <?php echo $ext_string["tools.portfolio"]; ?>
 </a></li>
+<li><a href="rss_stream.xml">
+	<img src="../img/rss.png" alt="." width="14" height="14" border="0" vspace="6" align="middle"/> 
+	&nbsp;<?php echo $ext_string["tools.rss"]; ?></a></li>
 	<li>
 	 <!-- AddThis Button BEGIN -->
 <a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4b3dcb743f1853c4">
@@ -46,7 +49,7 @@
 </a>
 <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4b3dcb743f1853c4"></script>
 <!-- AddThis Button END --></li>
-	<li><a href="rss_stream.xml"><img src="../img/rss.png" alt="." width="14" height="14" border="0" vspace="6" align="middle"/>  &nbsp;<?php echo $ext_string["tools.rss"]; ?></a></li>
+	
 </ul>
 	<br/><br/><br/>
 	<div align="center">
