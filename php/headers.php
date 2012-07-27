@@ -6,8 +6,8 @@
 </head>
 
 <?php 
-function age($naiss)  {
-  list($annee, $mois, $jour) = split('[-.]', $naiss);
+function age($annee, $mois, $jour)  {
+  //list($annee, $mois, $jour) = split('[-.]', $naiss);
   $today['mois'] = date('n');
   $today['jour'] = date('j');
   $today['annee'] = date('Y');
@@ -34,7 +34,7 @@ function age($naiss)  {
 	<!--born in September the 6th 1983 (25 yo), single.-->
 	</h4>
 	<?php if ($hl == 'fr'){?>
-	n&eacute; le 06/09/1983 (<?php echo age('1983-09-06'); ?> ans).
+	n&eacute; le 06/09/1983 (<?php echo age(1983, 09, 06); ?> ans).
 	<?php }?>
 	<br/>
 	<h3><?php echo $ext_string["address.permanent.street"]; ?><br/> <?php echo $ext_string["address.permanent.town"]; ?> <br/>

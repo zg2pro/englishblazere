@@ -3212,7 +3212,7 @@ input[type="submit"].btn.btn-mini {
 
 .nav > li > a:hover {
   text-decoration: none;
-  background-color: #eeeeee;
+  background-color: #3333ee;
 }
 
 .nav > .pull-right {
@@ -3322,7 +3322,7 @@ input[type="submit"].btn.btn-mini {
 }
 
 .nav-tabs > li > a:hover {
-  border-color: #eeeeee #eeeeee #dddddd;
+  border-color: #3333ee #3333ee #2222dd;
 }
 
 .nav-tabs > .active > a,
