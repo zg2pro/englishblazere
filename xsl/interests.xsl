@@ -5,11 +5,14 @@
 
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 	<xsl:template match="/">
-	<h2>
+<br/><br/><br/>
+	<ul class="breadcrumb"> <li class="active">
+			<h2>
 			<xsl:if test="$hl='en'">INTERESTS AND HOBBIES
 			</xsl:if>
 			<xsl:if test="$hl='fr'">LOISIRS ET INTERETS PERSONNELS</xsl:if>
 			</h2>
+			</li></ul>
 	<xsl:apply-templates/>
 	</xsl:template>
 	

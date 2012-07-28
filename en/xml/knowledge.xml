@@ -1,7 +1,7 @@
 
 <knowledge>
 	<science>
-		<field> <big>Project Management</big> : Operational schedules, <big>BPM</big>, Charge estimation (Function points), 
+		<field> <big>Project Management</big> : Operational schedules, BPM, Charge estimation (Function points), 
 	<br/>Tracking, Collaborative working tools</field>
 	<field> <big>Quality Management</big> : HMI (Management of ergonomic and cognitive criteria) <br/>
 	ISO9001 &amp; CMMI awareness, Validation &amp; Verification</field>
@@ -9,10 +9,10 @@
 	Specification methods and tools (CASE tools), Software architectures solutioning </field>
 	<field> <big> UML </big>Design, Automatons and Petri nets </field>
 	 <!--field> Human-Machine Interface (HMI) : <big>Scope statements</big>, management of ergonomic and cognitive criteria </li--> 
-	 <field> Programming in <big>C/C++, Java/J2EE</big>, IDE NetBeans, Eclipse, JDBC, log4j, License4j, JTidy, JUnit, RMI, JMS, JPA, EJB, <big>CORBA</big>, JBoss. Ant, Maven. </field>
-	 <field> <big>SQL</big>(DDL, DML, DCL, DQL): Design, Relational Algebra, Requests, Procedural Languages (object) <br/> DBMS Postgres, MySQL, Oracle </field>
-	 <field> Web development : <big> CSS, XHTML, PHP, AJAX</big>, JavaScript, HTML5 (with libraries JQuery, PHPUnit, PHPExcel...)  </field>
- 	<field> Flash : <big> Adobe Creative Suite 5, ActionScript</big></field>
+	 <field> Programming in <big>C/C++, Java/J2EE</big>, IDE NetBeans, Eclipse, JDBC, log4j, License4j, JTidy, JUnit, RMI, JMS, <big>JPA, EJB, CORBA</big>, JBoss. Ant, Maven. </field>
+	 <field> <big>SQL</big>(DDL, DML, DCL, DQL): Design, Relational Algebra, Requests, Procedural Languages (object) <br/> DBMS Postgres, MySQL, Oracle, MsSQL </field>
+	 <field> Web development : <big> CSS, XHTML, PHP, AJAX, JavaScript (with JQuery)</big>, HTML5 (with libraries JQuery, PHPUnit, PHPExcel...)  </field>
+ 	<field> Flash : Adobe Creative Suite 5, ActionScript</field>
  	<field><big> XML : XSL, XSP, XQuery </big>, Apache-Cocoon</field>
 	<field> Algorithm : <big>Computational complexity theory</big></field>
 	<field> Development of graphical interfaces in <big>Awt/Swing, Gtk+, Tcl/Tk</big> 

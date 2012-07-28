@@ -86,9 +86,11 @@
 	<li><small><?php echo $ext_string['technologies.js']; ?></small></li>
 	<li><small><?php echo $ext_string['technologies.php']; ?></small></li>
 	<li><small><?php echo $ext_string['technologies.pdf']; ?></small></li>
+	<li><small><?php echo $ext_string['technologies.bootstrap']; ?></small></li>
+	<li><small><?php echo $ext_string['technologies.flash']; ?></small></li>
 	</ul>
-	<br/>
-	<small><?php echo $ext_string['gregory.recommends']; ?></small>
+	<!--br/>
+	<small><?php echo $ext_string['gregory.recommends']; ?></small-->
 	
 <br/><br/><br/>
 

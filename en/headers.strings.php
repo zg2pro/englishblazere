@@ -49,8 +49,10 @@ $ext_string['technologies.css'] = "CSS: for the styles and graphical design.";
 $ext_string['technologies.js'] = "JavaScript: for glossary offline manipulation."; 
 $ext_string['technologies.php'] = "PHP: to organize the framework."; 
 $ext_string['technologies.unix'] = "Unix written Apache .htaccess"; 
-$ext_string['technologies.pdf'] = "PDF: for printable documents."; 
-$ext_string['gregory.recommends'] = "Gregory recommends Linux Ubuntu 9.10, Mozilla Firefox 3.5,
-	Eclipse 3.6 Helios"; 
+$ext_string['technologies.pdf'] = "PDF: for printable documents"; 
+$ext_string['technologies.bootstrap'] = "Bootstrap Twitter: for standard css"; 
+$ext_string['technologies.flash'] = "Flash and Creative Suite: for an animated hints and tricks popover"; 
+//$ext_string['gregory.recommends'] = "Gregory recommends Linux Ubuntu 9.10, Mozilla Firefox 3.5,
+//	Eclipse 3.6 Helios"; 
 
 ?>

@@ -7,11 +7,13 @@
 	<xsl:template match="/">
 	<xsl:choose>
 	<xsl:when test="$rss = '0'">
-	<h2>
+	<ul class="breadcrumb"> <li class="active">
+			<h2>
 			<xsl:if test="$hl='en'">EDUCATION (French Awards)
 			</xsl:if>
 			<xsl:if test="$hl='fr'">FORMATION INITIALE</xsl:if>
 			</h2>
+			</li></ul>
 	<ul>
 		<xsl:for-each select="//item">
 				<li><xsl:value-of disable-output-escaping="yes"  select="year"/>: <xsl:value-of disable-output-escaping="yes"  select="degree"/>
@@ -37,6 +39,7 @@
 		</a> </td>
 </tr>
 </table>
+<br/><br/><br/>
 </xsl:when>
 <xsl:otherwise>
 <table align="center" border="2" 

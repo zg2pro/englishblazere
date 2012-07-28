@@ -1,7 +1,7 @@
 
 <knowledge>
 	<science>
-		<field> <big>Gestion de Projet</big> : Planning, EPC/<big>BPM</big>, Estimation (Points de Fonction), Tracking, Outils de travail collaboratif </field>
+		<field> <big>Gestion de Projet</big> : Planning, BPM, Estimation (Points de Fonction), Tracking, Outils de travail collaboratif </field>
 	<field> <big>Gestion de la Qualit&eacute;</big> : Ing&eacute;nierie de l'Interaction Homme-Machine (Gestion de crit&egrave;res ergonomiques ou cognitifs), 
 	<br/>Sensibilisation aux normes ISO9001 &amp; CMMI, Assurance/Contr&ocirc;le de Qualit&eacute; : Validation, V&eacute;rification</field>
 	<field> Specification : Cahiers des charges, MERISE, <big>SADT/SART  </big>(Syst&egrave;me temps r&eacute;els), 
@@ -10,13 +10,13 @@
 	</field>
 	<!--field> Ing&eacute;nierie de l'Int&eacute;raction Homme-Machine : <big>Cahiers des charges</big>, Gestion de crit&egrave;res ergonomiques.
 	</li-->
-	<field> Programmation en <big>C/C++, Java/J2EE</big> (IDE NetBeans &amp; Eclipse, JDBC, log4j, License4j, JTidy, JUnit, RMI, JMS, JPA, EJB, <big>CORBA</big>, JBoss, Ant, Maven).
+	<field> Programmation en <big>C/C++, Java/J2EE</big> (IDE NetBeans &amp; Eclipse, JDBC, log4j, License4j, JTidy, JUnit, RMI, JMS, <big>JPA, EJB, CORBA</big>, JBoss, Ant, Maven).
 	</field>
-	<field> <big>SQL</big>(DDL, DML, DCL, DQL) : Conception, Alg&egrave;bre relationnel, Requetes,<br/> Arbres, Transactions, Langages de Proc&eacute;dure, SGBD Postgres, MySQL, Oracle 
+	<field> <big>SQL</big>(DDL, DML, DCL, DQL) : Conception, Alg&egrave;bre relationnel, Requetes,<br/> Arbres, Transactions, Langages de Proc&eacute;dure, SGBD Postgres, MySQL, Oracle, MsSQL 
 	</field>
-	<field> D&eacute;veloppement web : <big> XHTML, CSS, PHP, AJAX, JavaScript</big>, HTML5  (avec librairies JQuery, PHPUnit, PHPExcel...) . 
+	<field> D&eacute;veloppement web : <big> XHTML, CSS, PHP, AJAX, JavaScript (avec JQuery)</big>, HTML5  (avec librairies JQuery, PHPUnit, PHPExcel...) . 
 	</field>
-	<field> Flash : <big> Adobe Creative Suite 5, ActionScript</big></field>
+	<field> Flash : Adobe Creative Suite 5, ActionScript</field>
  	<field> <big>XML : XSL, XSP, XQuery</big>, Apache-Cocoon
 	</field>
 	<field> Algorithmique : Arbres, <big>Complexit&eacute; et Th&eacute;orie des classes</big> (L -> Co-NP) 

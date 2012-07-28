@@ -52,7 +52,9 @@ $ext_string['technologies.js'] = "JavaScript: manipulation hors-ligne du glossai
 $ext_string['technologies.php'] = "PHP: organisation du framework."; 
 $ext_string['technologies.unix'] = "Commandes Unix Apache du .htaccess"; 
 $ext_string['technologies.pdf'] = "PDF: impression de documents."; 
-$ext_string['gregory.recommends'] = "Gr&eacute;gory conseille Linux Ubuntu 9.10, Mozilla Firefox 3.5,
-	Eclipse 3.6 Helios"; 
+$ext_string['technologies.bootstrap'] = "Bootstrap Twitter: pour standardiser le css"; 
+$ext_string['technologies.flash'] = "Flash and Creative Suite: pour un widget anim&eacute; de trucs et astuces"; 
+//$ext_string['gregory.recommends'] = "Gr&eacute;gory conseille Linux Ubuntu 4.12, Mozilla Firefox 3.5,
+//	Eclipse 3.6 Helios"; 
 
 ?>

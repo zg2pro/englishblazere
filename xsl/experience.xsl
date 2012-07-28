@@ -5,7 +5,7 @@
 	<xsl:template match="/">
 	<xsl:choose>
 	<xsl:when test="$rss = '0'">
-	
+	<ul class="breadcrumb"> <li class="active">
 			<h2>
 			<xsl:if test="$hl='en'">
 			PROFESSIONAL EXPERIENCE
@@ -14,9 +14,10 @@
 			EXPERIENCES PROFESSIONNELLES
 			</xsl:if>
 			</h2>
+			</li></ul>
 		<table align="center" border="2" 
-			summary="your browser cannot display tables">
-		<tbody> <tr>
+			summary="your browser cannot display tables" class="table-bordered">
+		<thead> <tr>
 			<xsl:if test="$hl='en'">
 		<th>Organization</th>
 		<th>Date</th>
@@ -28,6 +29,8 @@
 		<th>Emploi / Nature du Travail</th>
 			</xsl:if>
 		</tr>
+		</thead>
+		<tbody>
 			<xsl:for-each select="//item">
 				<tr>
 				<td>	       
@@ -39,7 +42,7 @@
 			</xsl:for-each>
 		</tbody>
 		</table>
-		
+		<br/><br/><br/>
 	</xsl:when>
 	<xsl:otherwise>
 		 <table align="center" border="2" 
