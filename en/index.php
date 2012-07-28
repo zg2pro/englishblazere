@@ -50,7 +50,18 @@ require_once('glossary.strings.php');
 		</div>
 		<div class="span9">
 		<?php 
-			require_once ("../php/body.php");
+			if (file_exists ("../php/".$p.".php")) require_once ("../php/".$p.".php");
+			else {
+			if (file_exists ($p.".php")) require_once ($p.".php");
+			else {
+				echo "<div id='attention'>
+				The page you have requested is not yet available in english.
+				Thanks for your understanding.
+				</div>
+				";
+				require_once ("../fr/".$p.".php");
+			}
+			}
 		?>
 		</div>
 	</div>
