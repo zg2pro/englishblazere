@@ -11,10 +11,10 @@ $gradient[100] = 'AA0000';
 ?>
 <div id="glossary">
 	<h2><?php echo $ext_string['glossary.title']; ?></h2>
-	<?php echo $ext_string['glossary.legend']; ?><br/><br/>
-	<?php echo $ext_string['glossary.filter']; ?>
+	<?php //echo $ext_string['glossary.legend']; ?><br/><br/>
+	<?php //echo $ext_string['glossary.filter']; ?>
 	<table class="sortable" align="center" border="2" 
-	summary="your browser cannot display tables">
+	summary="your browser cannot display tables"  class="table-bordered">
 		<thead><tr>
 		<th><?php echo $ext_string['glossary.table.term']; ?></th>
 		<th><?php echo $ext_string['glossary.table.definition']; ?></th>
@@ -151,7 +151,7 @@ xml_parser_set_option($sax, XML_OPTION_CASE_FOLDING, FALSE);
 xml_set_object($sax, $glossary);
 xml_set_element_handler($sax, 'openTag', 'closeTag');
 xml_set_character_data_handler($sax, 'text');
-$file = "../$hl/XML/glossary.xml";
+$file = "../$hl/xml/glossary.xml";
 $contents = file_get_contents($file); 
 /*
 $fp = fopen($file, 'r');

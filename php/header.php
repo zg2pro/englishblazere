@@ -4,7 +4,7 @@ function age($annee, $mois, $jour)  {
   //list($annee, $mois, $jour) = split('[-.]', $naiss);
   $today['mois'] = date('n');
   $today['jour'] = date('j');
-  $today['annee'] = date('Y');
+  $today['annee'] = date('Y') - 1;
   $annees = $today['annee'] - $annee;
   if ($today['mois'] <= $mois) {
     if ($mois == $today['mois']) {

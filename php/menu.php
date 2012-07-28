@@ -25,7 +25,8 @@
 	</li>
 	<li>
 	<a href="../<?php if ($hl == 'en') echo 'fr'; else echo 'en' ?>/index.php?p=<?php echo $p; ?>">
-	<img src="../img/<?php if ($hl == 'en') echo 'fr'; else echo 'en' ?>.gif" alt="<?php if ($hl == 'en') echo 'fr'; else echo 'en' ?>" width="15" height="13" border="0" vspace="6"  align="middle"/>
+	<img src="../img/<?php if ($hl == 'en') echo 'fr'; else echo 'en' ?>.gif" alt="<?php if ($hl == 'en') echo 'fr'; 
+	else echo 'en' ?>" width="15" height="13" border="0" vspace="6"  align="middle"/>
 	<?php echo $ext_string["tools.vf"]; ?> </a>
 	</li>
 	<li><a href="../pdf/CV<?php echo $hl; ?>_GregANNE.pdf">

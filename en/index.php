@@ -1,8 +1,8 @@
 <?php
 session_start();
 
-$hl="fr";
-$_SESSION["hl"] = "fr";
+$hl="en";
+$_SESSION["hl"] = "en";
 
 if (!isset($_GET["p"]))
 	$p="mycv";
