@@ -39,13 +39,13 @@ require_once('glossary.strings.php');
 <body>	
 	<div class="row-fluid">
 		<?php 
-			require_once ("../php/lineheader.php");
+			require_once ("../php/header.php");
 		?>
 	</div>
 	<div class="row-fluid">
 		<div class="span3">
 		<?php 
-			require_once ("../php/header.php");
+			require_once ("../php/menu.php");
 		?>
 		</div>
 		<div class="span9">
