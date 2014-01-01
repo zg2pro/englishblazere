@@ -1,21 +1,22 @@
 <?php
 
 $ext_string['title'] = "Gr&eacute;gory ANNE 's Curriculum Vitae";
-$ext_string['title.h1'] = "<h1 class=\"h1_1_line\">SOFTWARE ENGINEER <br/>TECHNICAL LEAD AND PROJECT MANAGEMENT</h1>";
+$ext_string['title.h1'] = "<h1 class=\"h1_1_line\">JUNIOR PROJECT MANAGER <br/>JAVA PROGRAMMING</h1>";
 
 //$ext_string['address.permanent.street'] = "c/o FRATELLIA, 4 square des po&egrave;tes";
-$ext_string['address.permanent.street'] = "13, rue des Tilleuls - Appt 10";
-$ext_string['address.permanent.town'] = "92100 Boulogne Billancourt";
+$ext_string['address.permanent.street'] = "51, avenue de Paris";
+$ext_string['address.permanent.town'] = "94800 Villejuif";
 //$ext_string['address.permanent.town'] = "91370 Verrieres le Buisson";
 //$ext_string['address.permanent.street'] = "140 rue Pierre et Marie Curie";
 //$ext_string['address.permanent.town'] = "83340 Le Luc";
 $ext_string['address.permanent.country'] = "FRANCE";
 //$ext_string['number.mobile'] = "Mobile : +84.1.265.772.361.";
-$ext_string['number.mobile'] = "Mobile : +33.6.51.10.79.79";
-//$ext_string['number.landline'] = "Landline : +33.4.94.47.98.55.";
+//$ext_string['number.mobile'] = "Mobile : +33.6.51.10.79.79";
+$ext_string['number.mobile'] = "";
 //$ext_string['number.landline'] = "Landline : +33.1.60.11.23.58.";
-$ext_string['number.landline'] = "Landline : +33.9.52.18.26.27";
-$ext_string['mail'] = "Mail : Gregory.Anne83@gmail.com";
+$ext_string['number.landline'] = "";
+$ext_string['mail'] = "";
+//$ext_string['mail'] = "Mail : Gregory.Anne83@gmail.com";
 
 $ext_string['summary.head'] = "Summary";
 $ext_string['summary.pe'] = "PROFESSIONAL EXPERIENCE";
@@ -38,7 +39,7 @@ $ext_string['rss.head'] = "Last Elements";
 $ext_string['rss.le'] = "Last Experience";
 $ext_string['rss.ld'] = "Last Degree";
 
-$ext_string['copyright'] = "This site and its framework <br/> are powered by <br/>Gregory Anne &copy;."; 
+$ext_string['copyright'] = "This site and its framework <br/> were powered in 2005 by <br/>Gregory Anne &copy;."; 
 $ext_string['technologies.title'] = "Technologies used are:"; 
 //$ext_string['technologies.xml'] = "XML: for the CV data manipulation."; 
 $ext_string['technologies.xml'] = "XML: data storage, transformations through XSL, DOM or SAX regarding needs."; 

@@ -12,30 +12,23 @@
 		
 		</date>
 		<role>
-			<big><b>Chef de projet Jr</b></big>
-			<br/><br/> Responsable Fonctionnel d'un projet Forfait au sein d'une &eacute;quipe de 5 personnes.
+			<big><b>Chef de projet Junior</b></big>
+			<br/><br/><h7> Responsable Fonctionnel (2 ans) et leader technique (seconde ann&eacute;e).</h7>
 			<br/><br/>
-				<h7>Projet Principal</h7><br/>
-				Janv 12-Aujourd'hui Syst&egrave;me d'Information et de Gestion de l'Inventaire des Sources<br/>
-				Puisque je suis arriv&eacute; imm&eacute;diatement suite &agrave; la conclusion du march&eacute;, j'ai eu le privil&egrave;ge 
-			de pouvoir initier le d&eacute;veloppement du projet (1000MD) sur la base du cahier des charges et de la r&eacute;ponse 
-			&agrave; l'appel d'offre.
-			<br/><br/>J'ai particip&eacute; &agrave; la construction d'un Plan d'Assurance Qualit&eacute; autour d'un cycle de vie logiciel en V. 
-			Le projet consiste en une refonte compl&eagrave;te d'un existant en l'integrant &agrave; un portail web, et en apportant
-			de nouvelles r&egrave;gles de workflow (domaine : service public).
-			<br/><br/>Une longue phase d'analyse des besoins aupr&egrave;s de la ma&icirc;trise d'ouvrage, m'a permis de r&eacute;diger le document de 
-			sp&eacute;cifications d&eacute;taill&eacute;es, r&eacute;parti en plusieurs volumes correspondant aux principales valeurs m&eacute;tier
-			du projet. Ce document utilise principalement les standards UML et BPM.
-			<br/><br/>J'ai &eacute;tudi&eacute; les technologies qui avaient &eacute;t&eacute; propos&eacute;es et devaient &ecirc;tre embarqu&eacute;es dans 
-			l'architecture et j'ai document&eacute; ces &eacute;tudes pour l'&eacute;quipe &agrave; venir.
-			<br/><br/>J'ai guid&eacute; la construction d'un prototype avec SpringMVC - EJB3 - JPA - Solr - BonitaSoft et JQuery pour les maquettes des interfaces. 
-			J'ai cr&eacute;&eacute; un environnement de d&eacute;veloppement avec Eclipse-Maven-SVN.
-			<br/><br/>Je suis aujourd'hui le r&eacute;f&eacute;rant m&eacute;tier de l'&eacute;quipe de d&eacute;veloppement qui r&eacute;alise 
-			le logiciel.
-			
+			Aptea est une SSII fran&ccedil;aise sp&eacute;cialis&eacute;e dans les syst&egrave;mes de gestion destin&eacute;s aux domaines particuli&egrave;rement
+			sensibles et complexes (Energie et Transport).
+			<br/><br/>
+			Je me consacre &agrave; un client uniquement (organisme public officiel) et j'ai mis en oeuvre un projet de 2000 MD.
+			<br/><br/>
+			Cycle en V: J'ai co-guid&eacute; l'analyse d'affaire et r&eacute;dig&eacute; les documents de sp&eacute;cification.<br/>
+			J'ai con&ccedil;u l'architecture et int&eacute;gr&eacute; les premiers composants.<br/>
+			J'ai d&eacute;velopp&eacute; des modules complets du logiciel, dont la totalit&eacute; de la couche mod&egrave;le du logiciel ainsi que les scripts de migration.<br/>
+			J'ai g&eacute;r&eacute; en partie la relation client et j'ai int&eacute;gr&eacute; les requ&ecirc;tes de changement.<br/>
+			J'ai test&eacute; et valid&eacute; le logiciel.<br/>
+
 			<br/><br/><h7>Environnement</h7>
-		<br/>CentOS, Solaris, SQL Server, Oracle DB, Glassfish, JAVA/JEE (JPA2, Hibernate, EJB3, Spring3 MVC),
-		XSL, Signature &eacute;lectronique, WebDav(Milton), Bootstrap Twitter, NetBeans, Maven, SVN, Mantis, Jenkins, DokuWiki, 
+		<br/>SQL Server, Oracle DB, Glassfish, JAVA/JEE (JPA2, Hibernate, EJB3, Spring3 MVC, Maven), JQuery, Bootstrap Twitter, Lucene, 
+		XSL, Signature &eacute;lectronique, WebDav(Milton), NetBeans, SVN, Mantis, Jenkins, DokuWiki, 
 		Testlink, UML, BPML, Fran&ccedil;ais.
 		</role>
 	</item>
@@ -112,7 +105,7 @@ que pour notre syst&egrave;me de comptes pr&eacute;pay&eacute;s. Mise en place d
 l'&eacute;change de ces messages en Java en utilisant l'API JavaComm, d'un
 acc&egrave;s standardis&eacute; &agrave; l'application middleware avec <big>CORBA</big>. Support
 &agrave; l'&eacute;quipe de l'entreprise partenaire (<a href="http://www.evietsoft.net/GCMS.aspx"> evietsoft </a>) </li>	
-<li> iPay : enti&eagrave;re conception d'une solution de paiement en ligne</li> 
+<li> iPay : enti&egrave;re conception d'une solution de paiement en ligne</li> 
 <li>Service VIP : cr&eacute;ation d'un add-on &agrave; iPay afin d'identifier les membres en utilisant les codes barres QR et
 g&eacute;rer des promotions sp&eacute;ciales. Le scanner QR utilise <a href="http://replycam.com/">replycam.com</a>: un client flash
 adapt&eacute; aux webcams.
@@ -149,52 +142,7 @@ entre les terminaux POS et les serveurs d'applications bancaires : pr&eacute;sen
 		Mars &agrave; Aout 2009
 			</date>
 			<role>
-	<!--u>Stage conventionn&eacute; de fin d'&eacute;tudes :</u> 
-		<br/> Participation aux projets de l'&eacute;quipe "MdP", experte en technologies Java/J2E 
-		(travail collaboratif bas&eacute; sur des <big>frameworks Hibernate/Spring/Struts, Mantis bugtracker, Subversion</big>)
-		&Eacute;volution du statut et des t&acirc;ches suivant les projets:
-		<ol>
-<li>
-Base de Connaissance : Recherche de solutions technologiques
-(comparatif de CMS).
-Installation, Customization et Administration du CMS EZ-Publish,
-Promotion du portail aupr&egrave;s de l'&eacute;quipe.
-</li>
-<li>
-D&eacute;veloppement sur framework Java. 
-Utilisation de HQL, JSP, JavaScript, XML, CSS et des concepts JEE<br/>
-+ R&eacute;solution de bugs et change-requests sur application web JEE.
-</li>
-<li>
-Analyse d'affaires : relais entre IBM FR et IBM VN<br/> 
- Traductions Fran&ccedil;ais/Anglais, D&eacute;tail des sp&eacute;cifications, &Eacute;limination de
-possibles ambigu&iuml;t&eacute;s.
-</li>
-<li>
-Projet interne: Outil de Gestion de Projet<br/>
-- <big>Analyse des besoins</big>, recherche et proposition de solutions<br/>
-- Sp&eacute;cification et Conception du mod&egrave;le.<br/>
-- <big>Configuration d'environnements</big> sur serveurs LAMP et WAMP<br/>
-- Impl&eacute;mentation base de donn&eacute;es MySQL, code PHP, JavaScript/AJAX<br/>
-- <big>Gestion d'une &eacute;quipe de 1 &agrave; 4 personnes</big> suivant l'it&eacute;ration (m&eacute;thode Agile).<br/>
-- Gestion de projet suivant le workflow MdP (cycle de vie, <big>estimation,
-planning, tracking</big>).
-</li>
-<li>
-Recherche de solutions de mod&eacute;lisation, et proposition d'&eacute;l&eacute;ments
-techniques dans le cadre d'une nouvelle offre.
-</li>
-<li>
-
-Formations IBM :<br/>
-Points de Fonction : m&eacute;thodes d'estimation des charges de
-d&eacute;veloppement des projets<br/>
-Qpace (Quality Process Awareness and Competency Evaluation): Sensibilisation aux concepts d'assurance qualit&eacute;<br/>
-CMMI Awareness : Participation aux sessions de formation dans
-l'optique d'une certification du centre de d&eacute;veloppement
-</li>
-
-		</ol-->
+	
 		<big><b>Stage conventionn&eacute; de fin d'&eacute;tudes</b></big>
 		<br/><br/> D&eacute;veloppement Offshore pour IBM France, Business Analysis, pilotage d'un projet
 		interne du GDC.<br/><br/>
@@ -220,7 +168,7 @@ l'optique d'une certification du centre de d&eacute;veloppement
 		</li><li>R&eacute;vision de l'it&eacute;ration par DE, kick-off next.</li>
 	</ol>
 		<br/><h7>Environnement</h7>
-		<br/>Mantis, UML, Prototypage &eacut;cran HTML, CSS - PHP, Ajax, JS, MySQL, JEE (Hibernate-
+		<br/>Mantis, UML, Prototypage &eacute;cran HTML, CSS - PHP, Ajax, JS, MySQL, JEE (Hibernate-
 		Spring-Struts), CMMI-3 (objectif 5), RUP, ANGLAIS.
 
 			</role>

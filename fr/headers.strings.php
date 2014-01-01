@@ -1,23 +1,25 @@
 <?php
 
 $ext_string['title'] = "Curriculum Vitae de Gr&eacute;gory ANNE";
-$ext_string['title.h1'] = "<h1 class=\"h1_1_line\">ING&Eacute;NIEUR / ARCHITECTE LOGICIEL
+/*$ext_string['title.h1'] = "<h1 class=\"h1_1_line\">ING&Eacute;NIEUR / ARCHITECTE LOGICIEL
 <br/>
-TECHNICAL LEAD ET GESTION DE PROJET</h1>";
+TECHNICAL LEAD ET GESTION DE PROJET</h1>";*/
+$ext_string['title.h1'] = "<h1 class=\"h1_1_line\">CHEF DE PROJET JUNIOR <br/>ENVIRONNEMENTS JAVA</h1>";
 
 //$ext_string['address.permanent.street'] = "c/o FRATELLIA, 4 square des po&egrave;tes";
-$ext_string['address.permanent.street'] = "13, rue des Tilleuls - Appt 10";
-$ext_string['address.permanent.town'] = "92100 Boulogne Billancourt";
+$ext_string['address.permanent.street'] = "51, avenue de Paris";
+$ext_string['address.permanent.town'] = "94800 Villejuif";
 //$ext_string['address.permanent.town'] = "91370 Verrieres le Buisson";
 //$ext_string['address.permanent.street'] = "140 rue Pierre et Marie Curie";
 //$ext_string['address.permanent.town'] = "83340 Le Luc";
 $ext_string['address.permanent.country'] = "FRANCE";
 //$ext_string['number.mobile'] = "Mobile : +84.1.265.772.361.";
-$ext_string['number.mobile'] = "Mobile : +33.6.51.10.79.79";
-//$ext_string['number.landline'] = "Landline : +33.4.94.47.98.55.";
+//$ext_string['number.mobile'] = "Mobile : +33.6.51.10.79.79";
+$ext_string['number.mobile'] = "";
 //$ext_string['number.landline'] = "Landline : +33.1.60.11.23.58.";
-$ext_string['number.landline'] = "Landline : +33.9.52.18.26.27";
-$ext_string['mail'] = "Mail : Gregory.Anne83@gmail.com";
+$ext_string['number.landline'] = "";
+//$ext_string['mail'] = "Mail : Gregory.Anne83@gmail.com";
+$ext_string['mail'] = "";
 
 $ext_string['summary.head'] = "Sommaire";
 $ext_string['summary.pe'] = "EXP&Eacute;RIENCES PROFESSIONNELLES";
@@ -40,7 +42,7 @@ $ext_string['rss.head'] = "Derniers Elements";
 $ext_string['rss.le'] = "Dernière Expérience";
 $ext_string['rss.ld'] = "Dernier Diplôme";
 
-$ext_string['copyright'] = "Le site et le framework ont <br/>  &eacute;t&eacute; con&ccedil;us par <br/>Gr&eacute;gory Anne &copy;."; 
+$ext_string['copyright'] = "Le site et le framework ont <br/>  &eacute;t&eacute; con&ccedil;us en 2005 par <br/>Gr&eacute;gory Anne &copy;."; 
 $ext_string['technologies.title'] = "Principales technologies utilis&eacute;es:"; 
 //$ext_string['technologies.xml'] = "XML: manipulation de donn&eacute;es du CV."; 
 $ext_string['technologies.xml'] = "XML: stock de donn&eacute;es, transformations avec XSL, DOM ou SAX."; 
