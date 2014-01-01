@@ -19,7 +19,7 @@ $ext_string['number.mobile'] = "";
 //$ext_string['number.landline'] = "Landline : +33.1.60.11.23.58.";
 $ext_string['number.landline'] = "";
 //$ext_string['mail'] = "Mail : Gregory.Anne83@gmail.com";
-$ext_string['mail'] = "";
+$ext_string['mail'] = "gregory.anne.jobs@gmail.com";
 
 $ext_string['summary.head'] = "Sommaire";
 $ext_string['summary.pe'] = "EXP&Eacute;RIENCES PROFESSIONNELLES";
