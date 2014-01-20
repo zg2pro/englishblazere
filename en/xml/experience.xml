@@ -156,7 +156,7 @@ a view to the certification of the development center
 		+ Created a videoconferencing rooms directory (SQL, PHP)
 			</role>
 	</item>
-	<item>
+	<!--item>
 			<organization>
 			Senecrus Co <br/> Rungis -near Paris-
 			</organization>
@@ -189,7 +189,7 @@ a view to the certification of the development center
 			Giant fluffy in the great Christmas parades.
 			Dancing and snapshots with the kids.
 			</role>
-	</item>
+	</item-->
 	<item>
 			<organization>
 			<a href="http://www.mobilegov.com">
@@ -204,7 +204,7 @@ a view to the certification of the development center
 		Quality Control for java applications, wrote technical documentations and user guides.
 			</role>
 	</item>
-	<item>
+	<!--item>
 			<organization>
 			Hypermarket E. Leclerc<br/>Le Luc -south of France-
 			</organization>
@@ -279,5 +279,5 @@ a view to the certification of the development center
 			Computers shop in removal :
         	various work, setting up material
 			</role>
-	</item>
+	</item-->
 </experience>

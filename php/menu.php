@@ -4,6 +4,7 @@
 <ul class="nav nav-tabs nav-stacked">
 <li><a href="index.php?p=mycv#experience"><?php echo $ext_string["summary.pe"]; ?></a></li>
 <li><a href="index.php?p=mycv#education"><?php echo $ext_string["summary.e"]; ?></a></li>
+<li><a href="index.php?p=mycv#courses"><?php echo $ext_string["summary.c"]; ?></a></li>
 <li><a href="index.php?p=mycv#knowledge"><?php echo $ext_string["summary.k"]; ?></a></li>
 <li><a href="index.php?p=mycv#interests"><?php echo $ext_string["summary.ih"]; ?></a></li>
 <li><a href="index.php?p=mycv#goals"><?php echo $ext_string["summary.g"]; ?></a></li>
@@ -99,5 +100,5 @@
 
 <br/><br/><br/>
 
-<script src="../js/ssm.js" type="text/javascript"></script>
-<script src="../js/ssmItems.js" type="text/javascript"></script>
+<!--script src="../js/ssm.js" type="text/javascript"></script>
+<script src="../js/ssmItems.js" type="text/javascript"></script-->

@@ -10,11 +10,11 @@
 	<field> <big> UML </big>Design, Automatons and Petri nets </field>
 	 <!--field> Human-Machine Interface (HMI) : <big>Scope statements</big>, management of ergonomic and cognitive criteria </li--> 
 	 <field> Programming in <big>Java/J2EE</big> (IDE NetBeans, Eclipse, web and desktop swing. <big>SpringMVC, JPA, EJB, CORBA, Maven</big>).</field>
-	 <field> <big>SQL & JPQL</big>(DDL, DML, DCL, DQL),<br/> Procedural Languages (object), SGBD Postgres, MySQL, Oracle, MsSQL. 
+	 <field> <big>SQL &amp; JPQL</big>(DDL, DML, DCL, DQL),<br/> Procedural Languages (object), SGBD Postgres, MySQL, Oracle, MsSQL. 
 	</field>
 	 <field> Web development : <big> CSS, XHTML, PHP, JavaScript (with JQuery, ajax)</big> </field>
  	<field><big> XML : XSL, XSP, XQuery </big>, Apache-Cocoon</field>
-	<field> Web and System Administration : Setup of test environments (SIT & UAT), Jenkins.
+	<field> Web and System Administration : Setup of test environments (SIT &amp; UAT), Jenkins.
 	</field>
 	 <field> Win/<big>Linux</big> : knowledge on Windows/MacOS ; mastering Unix Environment.
 	<br/> Shell programming : BASH, TCSH, Perl, Python </field>

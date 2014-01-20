@@ -4,10 +4,11 @@ session_start();
 	$titles = array(
 		0 => "experience",
 		1 => "education",
-		2 => "knowledge",
-		3 => "interests",
-		4 => "goals",
-		5 => "referees"
+		2 => "courses",
+		3 => "knowledge",
+		4 => "interests",
+		5 => "goals",
+		6 => "referees"
 	);
 	
 	foreach ($titles as $ind=>$val){

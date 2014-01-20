@@ -13,7 +13,7 @@
 		</date>
 		<role>
 			<big><b>Chef de projet Junior</b></big>
-			<br/><br/><h7> Responsable Fonctionnel (2 ans) et leader technique (seconde ann&eacute;e).</h7>
+			<br/><br/><span class="h7"> Responsable Fonctionnel (2 ans) et leader technique (seconde ann&eacute;e).</span>
 			<br/><br/>
 			Aptea est une SSII fran&ccedil;aise sp&eacute;cialis&eacute;e dans les syst&egrave;mes de gestion destin&eacute;s aux domaines particuli&egrave;rement
 			sensibles et complexes (Energie et Transport).
@@ -26,7 +26,7 @@
 			J'ai g&eacute;r&eacute; en partie la relation client et j'ai int&eacute;gr&eacute; les requ&ecirc;tes de changement.<br/>
 			J'ai test&eacute; et valid&eacute; le logiciel.<br/>
 
-			<br/><br/><h7>Environnement</h7>
+			<br/><br/><span class="h7">Environnement</span>
 		<br/>SQL Server, Oracle DB, Glassfish, JAVA/JEE (JPA2, Hibernate, EJB3, Spring3 MVC, Maven), JQuery, Bootstrap Twitter, Lucene, 
 		XSL, Signature &eacute;lectronique, WebDav(Milton), NetBeans, SVN, Mantis, Jenkins, DokuWiki, Talend,
 		Testlink, UML, BPML, Fran&ccedil;ais.
@@ -47,7 +47,7 @@
 				<br/><br/> Direction du d&eacute;partement "<i>Solutions de Paiement</i>" de IO-Network, Pilotage de projets, Encadrement de 6 IED, Solutioning, Prospecting, Vente, AMOA, 
 				Sp&eacute;cification et Conception, Contribution &agrave; Impl&eacute;mentation, Recette et Maintenance.
 				<br/><br/>
-				<h7>Projet Principal</h7><br/>
+				<span class="h7">Projet Principal</span><br/>
 				Oct 09-Oct 11 (continu) Prepaid&amp;Loyalty<br/>
 				Prepaid&amp;Loyalty est un syst&egrave;me de gestion de comptes pr&eacute;pay&eacute;s que nous fournissions en
 				SaaS &agrave; diff&eacute;rents marchands, comptes, holdings, sub-holdings (type cartes voucher ou
@@ -70,7 +70,7 @@
 
 				</ol>
 
-		<br/><h7>Autres Projets</h7>
+		<br/><span class="h7">Autres Projets</span>
 		<br/>Adoption au Vietnam de diverses autres solutions de paiement import&eacute;es de Malaisie,
 		Singapour, Isra&euml;l, USA : Lines Encryption System (cryptage des transactions EMV),
 		Prepaid TopUp System (TopUp cr&eacute;dits de t&eacute;l&eacute;phonie mobile), NFC, m-coupon.
@@ -78,58 +78,11 @@
 		cr&eacute;ation de workflows pour la maintenance et les nouveaux d&eacute;veloppements, apport d'une
 		approche de qualit&eacute;.
 		
-		<br/><br/><h7>Environnement</h7>
+		<br/><br/><span class="h7">Environnement</span>
 		<br/>WINDOWS ISA SERVER, TOMCAT, JAVA/JEE (jPOS, Torque), SQL SERVER, WAMP,
 		Verifone Vx500, C, Ubuntu, CentOS, Eclipse, Maven, SVN, Mantis, Wiki, Testlink, UML,
 		PNML, BPML, CORBA, JAX-WS, Shell, ANGLAIS &amp; MANGLISH exclusifs.
-
-				
-		<!--big>Responsable d'une &eacute;quipe de 6 personnes.</big>
-		<br/> <big>Gestion de Projet, R&amp;D et Solutioning</big>
-		<br/> <big>Analyse de besoins aupr&egrave;s des clients</big>, Sp&eacute;cification &amp; Conception
-		<br/> Technologies utilis&eacute;es : Applications serveur: Java, Microsoft SQL Server, Eclipse <br/> 
-		Applications terminal : Verifone Vx510, ARM Compiler, Source Insight, C <br/> 
-		Divers: UML, SVN, Testlink, Mantis, Google Apps...
-		<br/> Projets de Solutions de paiement pour le march&eacute; du Sud-Est Asiatique :
-		<ol> 
-<li>Pre-paid Top-up Systems pour les fournisseurs d'acc&egrave;s mobiles : Plusieurs
-upgrades ont &eacute;t&eacute; men&eacute;es &agrave; terme.</li>
-<li> Cartes Cadeaux, Cartes de Fidelit&eacute; et syst&egrave;mes de gestion : 
-promotion et vente du syst&egrave;me aux clients, am&eacute;lioration
-des composants fonctionnels</li>
-<li> Syst&egrave;mes embarqu&eacute;s de paiement par carte de cr&eacute;dit Visa &amp; Mastercard </li>		
-<li> Caisses enregistreuses : cr&eacute;ation d'un logiciel middleware capable d'interagir entre
-le terminal connect&eacute; via une interface RS232 et toute application de gestion de vente au d&eacute;tail : sp&eacute;cification
-des paquets envoy&eacute;s via le port s&eacute;rie entre les caisses enregistreuses et le terminal, adapt&eacute;s pour SoftPay, ainsi
-que pour notre syst&egrave;me de comptes pr&eacute;pay&eacute;s. Mise en place de
-l'&eacute;change de ces messages en Java en utilisant l'API JavaComm, d'un
-acc&egrave;s standardis&eacute; &agrave; l'application middleware avec <big>CORBA</big>. Support
-&agrave; l'&eacute;quipe de l'entreprise partenaire (<a href="http://www.evietsoft.net/GCMS.aspx"> evietsoft </a>) </li>	
-<li> iPay : enti&egrave;re conception d'une solution de paiement en ligne</li> 
-<li>Service VIP : cr&eacute;ation d'un add-on &agrave; iPay afin d'identifier les membres en utilisant les codes barres QR et
-g&eacute;rer des promotions sp&eacute;ciales. Le scanner QR utilise <a href="http://replycam.com/">replycam.com</a>: un client flash
-adapt&eacute; aux webcams.
-</li><li>PrepaidWebServices : cr&eacute;ation d'une application <big>JAX-WS</big> pour que les comptes clients aient la possibilit&eacute;
-de t&eacute;l&eacute;charger les journaux de transactions et les informations des cartes au format XML.
-</li><li>Bill Collectors : Sp&eacute;cification d'un add-on pour Gift cards system et iPay, afin que les d&eacute;tenteurs de cartes
-aient la possibilit&eacute; de payer leurs factures en utilisant leur comptes pr&eacute;pay&eacute;s.</li>
-<li> Syst&egrave;me de cryptage de la transmission des donn&eacute;es bancaires
-entre les terminaux POS et les serveurs d'applications bancaires : pr&eacute;sentation de la solution aux comit&eacute;s directeurs des grandes
-		banques Vietnamiennes, installation d'une version pilote pour la plus grosse banque d'&eacute;tat du pays. </li>	
-<li>Appareils de paiements NFC : utilisation du Proximity Coupling Device - 
-		sp&eacute;cification du circuit de transactions et des cas d'utilisation 
-		pour plusieurs projets li&eacute;s &agrave; cette technologie</li>
-		<li> Transferts de fonds : Collaboration avec une soci&eacute;t&eacute; am&eacute;ricaine
-		afin d'offrir une nouvelle alternative aux transferts de fonds priv&eacute;s entre l'Am&eacute;rique
-		du Nord et le Vietnam par compte pr&eacute;pay&eacute; ou Mastercard - utilisation des solutions de paiement par 
-		SMS. </li>
-		<li> Integration de diverses applications sur un terminal unique </li>	
-		</ol>
-		En tant que leader du d&eacute;partement, j'ai aussi travaill&eacute; &agrave; l'am&eacute;lioration
-		des process (d&eacute;finition de guidelines de strat&eacute;gie, cr&eacute;ation
-		de workflows pour la maintenance et les nouveaux d&eacute;veloppements, apport
-		d'une approche de qualit&eacute;) -->
-			</role>
+		</role>
 	</item>
 	<item>
 			<organization>
@@ -153,7 +106,7 @@ entre les terminaux POS et les serveurs d'applications bancaires : pr&eacute;sen
 		phase de maintenance, et en phase d'impl&eacute;mentation, puis j'ai travaill&eacute; comme Business
 		Analyst.
 
-		<br/><br/><h7>Projet</h7>
+		<br/><br/><span class="h7">Projet</span>
 		<br/>Juin-09 &agrave; Ao&ucirc;t-09 (3 mois) Pilotage de "<i>Mantis-Project</i>"
 		<br/>Transformation de Mantis en un outil de gestion de projet pouvant &ecirc;tre commun au GDC
 		entier. Proposition avec le Program Manager MdP du projet aupr&egrave;s du IBM Delivery
@@ -167,7 +120,7 @@ entre les terminaux POS et les serveurs d'applications bancaires : pr&eacute;sen
 		</li><li>Estimation de charge, planning
 		</li><li>R&eacute;vision de l'it&eacute;ration par DE, kick-off next.</li>
 	</ol>
-		<br/><h7>Environnement</h7>
+		<br/><span class="h7">Environnement</span>
 		<br/>Mantis, UML, Prototypage &eacute;cran HTML, CSS - PHP, Ajax, JS, MySQL, JEE (Hibernate-
 		Spring-Struts), CMMI-3 (objectif 5), RUP, ANGLAIS.
 
@@ -188,7 +141,7 @@ entre les terminaux POS et les serveurs d'applications bancaires : pr&eacute;sen
 		+ Cr&eacute;ation pour le service des visioconf&eacute;rences d'un annuaire SQL/PHP.
 			</role>
 	</item>
-	<item>
+	<!--item>
 			<organization>
 	Senecrus SARL <br/>Rungis (94)
 		
@@ -226,7 +179,7 @@ entre les terminaux POS et les serveurs d'applications bancaires : pr&eacute;sen
 	Peluche g&eacute;ante aux grandes parades de No&euml;l. 
 			Danse, photographies avec les enfants
 			</role>
-	</item>
+	</item-->
 	<item>
 			<organization>
 	<a href="http://www.mobilegov.com">
@@ -242,7 +195,7 @@ entre les terminaux POS et les serveurs d'applications bancaires : pr&eacute;sen
 		<br/>Tests d'application Java, r&eacute;daction de documents techniques et manuels
 			</role>
 	</item>
-	<item>
+	<!--item>
 			<organization>
 	Hypermarche E. Leclerc<br/>Le Luc (83)
 		
@@ -336,6 +289,6 @@ entre les terminaux POS et les serveurs d'applications bancaires : pr&eacute;sen
 	Magasin d'informatique en d&eacute;m&eacute;nagement :
         travaux divers et r&eacute;installation du mat&eacute;riel.
 			</role>
-	</item>
+	</item-->
 	
 </experience>

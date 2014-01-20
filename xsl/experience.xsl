@@ -42,7 +42,7 @@
 			</xsl:for-each>
 		</tbody>
 		</table>
-		<br/><br/><br/>
+		
 	</xsl:when>
 	<xsl:otherwise>
 		 <table align="center" border="2" 

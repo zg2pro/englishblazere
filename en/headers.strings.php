@@ -21,6 +21,7 @@ $ext_string['mail'] = "gregory.anne.jobs@gmail.com";
 $ext_string['summary.head'] = "Summary";
 $ext_string['summary.pe'] = "PROFESSIONAL EXPERIENCE";
 $ext_string['summary.e'] = "EDUCATION";
+$ext_string['summary.c'] = "TRAINING COURSES";
 $ext_string['summary.k'] = "KNOWLEDGE";
 $ext_string['summary.ih'] = "INTERESTS AND HOBBIES";
 $ext_string['summary.g'] = "GOALS";
