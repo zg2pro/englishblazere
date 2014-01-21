@@ -21,6 +21,15 @@
 			</xsl:for-each>
 	</ul>
 	<br/><br/>
+	<table align="center">
+<tr>
+<td><a href="http://www.orsys.fr/"> 
+	 	<img src="../img/orsys.jpg" width="240" height="44" 
+	border="0" alt="Orsys"/>
+	 </a> </td>
+</tr>
+</table>
+<br/><br/>
 </xsl:when>
 <xsl:otherwise>
 <table align="center" border="2" 
