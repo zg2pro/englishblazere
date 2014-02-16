@@ -17,13 +17,16 @@
 <br/><br/>
 Aptea is a French IT Outsourcing company specializing in software for business that is particularly sensitive and complex (Energy and Transport).
 <br/><br/>
-Since I joined Aptea, I have been assigned to one customer only (public official establishment) and I carried out a 2000md project.
+Since I joined Aptea, I have been assigned to one customer only (public official establishment) and I carried out a 1800 MD project. 
+The purpose was to refactor wholly a 10 years old software which remained operative yet was based on an outdated set of technologies
+and also needed to be opened to new stakeholders of the domain.
 <br/><br/>
 V-Lifecycle: I co-guided the business analysis and wrote the SRS. <br/>
-I designed the architecture and integrated the first components. <br/>
+I designed the architecture and integrated the first components, I also integrated digital signature using Keynectis' solution. <br/>
 I developed whole parts of the software, including the totality of the model layer of the software and the migration scripts. <br/>
+I managed and trained the software developers. <br/>
 I managed partly the customer interface and integrated change requests. <br/>
-I tested and validated the software. <br/>
+I set the test environment for a software validation squad. <br/>
 <br/>
 Environment: SQL Server, Oracle DB, Glassfish, JAVA/JEE (JPA2, Hibernate, EJB3, Spring3 MVC, Maven), JQuery, Bootstrap Twitter, Lucene, 
 		XSL, Digital Signature, WebDav(Milton), NetBeans, SVN, Mantis, Jenkins, Talend, DokuWiki, 
