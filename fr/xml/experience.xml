@@ -36,8 +36,9 @@
 			J'ai mis en place l'environnement de test pour l'&eacute;quipe de validation avec Testlink et Selenium.<br/>
 
 			<br/><br/><span class="h7">Environnement</span>
-		<br/>SQL Server, Oracle DB, Glassfish, JAVA/JEE (JPA2, Hibernate, EJB3, Spring3 MVC, Maven), JQuery, Bootstrap Twitter, Lucene, 
-		XSL, Signature &eacute;lectronique, WebDav(Milton), NetBeans, SVN, Mantis, Jenkins, DokuWiki, Talend, 
+		<br/>SQL Server, Oracle DB, Glassfish, JAVA/JEE (JPA2, Hibernate, EJB3, Spring3 MVC, Maven), 
+                JQuery, Bootstrap Twitter, Lucene, ArcGis, 
+		XSL, Signature &eacute;lectronique, WebDav(Milton), NetBeans, SVN, Mantis, Jenkins, DokuWiki, xWiki, Talend, 
 		Testlink, Selenium, UML, BPML, Fran&ccedil;ais.
 		</role>
 	</item>
@@ -46,7 +47,6 @@
 	 <a href="http://www.ionetwork.com"> 
 		<img src="http://englishblazere.free.fr/img/ionetwork.jpg" alt="IO-Network" width="120" height="70" border="0" />
 		</a> <br/>Ho Chi Minh City (Vietnam)
-		
 			</organization>
 			<date>
 		Octobre 2009 &agrave; Octobre 2011
@@ -290,14 +290,14 @@
 	Qualim&eacute;dia Plus<br/>
 			Nice (06)
 		
-			</organization>
-			<date>
-		&Eacute;t&eacute; 2000
-			</date>
-			<role>
-	Magasin d'informatique en d&eacute;m&eacute;nagement :
-        travaux divers et r&eacute;installation du mat&eacute;riel.
-			</role>
-	</item-->
+                    </organization>
+                    <date>
+            &Eacute;t&eacute; 2000
+                    </date>
+                    <role>
+    Magasin d'informatique en d&eacute;m&eacute;nagement :
+    travaux divers et r&eacute;installation du mat&eacute;riel.
+                    </role>
+    </item-->
 	
 </experience>

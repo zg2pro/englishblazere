@@ -1,10 +1,10 @@
 <?php
 
 $ext_string['title'] = "Curriculum Vitae de Gr&eacute;gory ANNE";
-/*$ext_string['title.h1'] = "<h1 class=\"h1_1_line\">ING&Eacute;NIEUR / ARCHITECTE LOGICIEL
-<br/>
-TECHNICAL LEAD ET GESTION DE PROJET</h1>";*/
-$ext_string['title.h1'] = "<h1 class=\"h1_1_line\">CHEF DE PROJET JUNIOR <br/>ENVIRONNEMENTS JAVA</h1>";
+/* $ext_string['title.h1'] = "<h1 class=\"h1_1_line\">ING&Eacute;NIEUR / ARCHITECTE LOGICIEL
+  <br/>
+  TECHNICAL LEAD ET GESTION DE PROJET</h1>"; */
+$ext_string['title.h1'] = "<h1 class=\"h1_1_line\">CHEF DE PROJET <br/>ENVIRONNEMENTS JAVA</h1>";
 
 //$ext_string['address.permanent.street'] = "c/o FRATELLIA, 4 square des po&egrave;tes";
 $ext_string['address.permanent.street'] = "51, avenue de Paris";
@@ -43,21 +43,20 @@ $ext_string['rss.head'] = "Derniers Elements";
 $ext_string['rss.le'] = "Dernière Expérience";
 $ext_string['rss.ld'] = "Dernier Diplôme";
 
-$ext_string['copyright'] = "Le site et le framework ont <br/>  &eacute;t&eacute; con&ccedil;us en 2005 par <br/>Gr&eacute;gory Anne &copy;."; 
-$ext_string['technologies.title'] = "Principales technologies utilis&eacute;es:"; 
+$ext_string['copyright'] = "Le site et le framework ont <br/>  &eacute;t&eacute; con&ccedil;us en 2005 par <br/>Gr&eacute;gory Anne &copy;.";
+$ext_string['technologies.title'] = "Principales technologies utilis&eacute;es:";
 //$ext_string['technologies.xml'] = "XML: manipulation de donn&eacute;es du CV."; 
-$ext_string['technologies.xml'] = "XML: stock de donn&eacute;es, transformations avec XSL, DOM ou SAX."; 
-$ext_string['technologies.xsl'] = "XSL: g&eacute;n&eacute;ration du site depuis le XML."; 
-$ext_string['technologies.rss'] = "RSS: news feed."; 
-$ext_string['technologies.fb'] = "facebook-platform: application facebook."; 
-$ext_string['technologies.css'] = "CSS: styles et conception visuelle."; 
-$ext_string['technologies.js'] = "JavaScript: manipulation hors-ligne du glossaire."; 
-$ext_string['technologies.php'] = "PHP: organisation du framework."; 
-$ext_string['technologies.unix'] = "Commandes Unix Apache du .htaccess"; 
-$ext_string['technologies.pdf'] = "PDF: impression de documents."; 
-$ext_string['technologies.bootstrap'] = "Bootstrap Twitter: pour standardiser le css"; 
-$ext_string['technologies.flash'] = "Flash and Creative Suite: pour un widget anim&eacute; de trucs et astuces"; 
+$ext_string['technologies.xml'] = "XML: stock de donn&eacute;es, transformations avec XSL, DOM ou SAX.";
+$ext_string['technologies.xsl'] = "XSL: g&eacute;n&eacute;ration du site depuis le XML.";
+$ext_string['technologies.rss'] = "RSS: news feed.";
+$ext_string['technologies.fb'] = "facebook-platform: application facebook.";
+$ext_string['technologies.css'] = "CSS: styles et conception visuelle.";
+$ext_string['technologies.js'] = "JavaScript: manipulation hors-ligne du glossaire.";
+$ext_string['technologies.php'] = "PHP: organisation du framework.";
+$ext_string['technologies.unix'] = "Commandes Unix Apache du .htaccess";
+$ext_string['technologies.pdf'] = "PDF: impression de documents.";
+$ext_string['technologies.bootstrap'] = "Bootstrap Twitter: pour standardiser le css";
+$ext_string['technologies.flash'] = "Flash and Creative Suite: pour un widget anim&eacute; de trucs et astuces";
 //$ext_string['gregory.recommends'] = "Gr&eacute;gory conseille Linux Ubuntu 4.12, Mozilla Firefox 3.5,
-//	Eclipse 3.6 Helios"; 
-
+//	Eclipse 3.6 Helios";
 ?>

@@ -1,52 +1,57 @@
 
 <knowledge>
-	<science>
-		<field> <big>Gestion de Projet</big> : Planning, BPM, Estimation (Points de Fonction), Tracking, Outils de travail collaboratif </field>
-	<field> <big>Gestion de la Qualit&eacute;</big> : Ing&eacute;nierie de l'Interaction Homme-Machine (Gestion de crit&egrave;res ergonomiques ou cognitifs), 
-	<br/>Sensibilisation aux normes ISO9001 &amp; CMMI, Assurance/Contr&ocirc;le de Qualit&eacute; : Validation, V&eacute;rification</field>
-	<field> Specification : Cahiers des charges, MERISE, <big>SADT/SART  </big>(Syst&egrave;me temps r&eacute;els), 
-	Ateliers de G&eacute;nie Logiciel, Solutionning d'architectures logicielles </field>
-	<field> Conception <big>UML</big>, Automates et r&eacute;seaux de P&eacute;tri 
-	</field>
-	<!--field> Ing&eacute;nierie de l'Int&eacute;raction Homme-Machine : <big>Cahiers des charges</big>, Gestion de crit&egrave;res ergonomiques.
-	</li-->
-	<field> Programmation en <big>Java/J2EE</big> (IDE NetBeans &amp; Eclipse, applications web et clients lourds swing. <big>SpringMVC, JPA, EJB, CORBA, Maven</big>).
-	</field>
-	<field> <big>SQL &amp; JPQL</big>(DDL, DML, DCL, DQL),<br/> Langages de Proc&eacute;dure, SGBD Postgres, MySQL, Oracle, MsSQL. 
-	</field>
-	<field> D&eacute;veloppement web : <big> XHTML, CSS, PHP, JavaScript (avec JQuery, ajax)</big>. 
-	</field>
-	<field> <big>XML : XSL, XSP, XQuery</big>, Apache-Cocoon
-	</field>
-	<field> Administration Syst&egrave;me et Réseau : Mise en place d'environnements de tests (intégration continue, Jenkins).
-	</field>
-	<field> Win/<big>Linux</big> : Connaissances Windows/MacOS, ma&icirc;trise de l'environnement Unix. <br/>
-		Programmation <big>Shell</big> (bash, tcsh, Perl, Python) 
-	</field>
-	<field> Logiciels de Bureautique et de Communication Office/open office/Lotus/Adobe 
-	</field>
-	<field> Flash : Adobe Creative Suite 5, ActionScript</field>
- 	<field> Algorithmique : Arbres, <big>Complexit&eacute; et Th&eacute;orie des classes</big> (L -> Co-NP) 
-	</field>
-	<field> D&eacute;veloppement d'interfaces graphiques en <big>Awt/Swing, Gtk+, Tcl/Tk</big>
-	 <a href="http://nguyen.univ-tln.fr/Enseignement/M5/TclTk/proj2007.html">
-	 Projet de licence </a> 
-	</field>
-	<field> Infographie 2D/3D : SDL, OpenGL      Projets <a href="http://nguyen.univ-tln.fr/Enseignement/M5/Proj0708/pendule.html">2D</a> <a href="http://nguyen.univ-tln.fr/Enseignement/MO2/Mesa/projet2007.html">3D</a> 
-	</field>
-	<field> Compilation : Analyses lexicales, syntaxiques, s&eacute;mantiques par flex et bison. 
-	</field>
-	<field> Programmation Fonctionnelle : Langage CamL 
-	</field>
-	<field> Th&eacute;orie et Recherche d'information : Traitement de la parole, Segmentation d'images, 
-	<br/>Rapports rappel/pr&eacute;cison et Page rank. <br/>
-	Entropie de Shannon, Codage   <a href="../PDF/Travaux_d_etudes_et_de_recherche.pdf"> Memoire de Maitrise </a>
-	</field>
-	</science>
-	<miscellaneous>
-	<field>Langues : Fran&ccedil;ais, Anglais<!-- (Score <a href="http://www.ets.org/toeic">TOEIC</a> 2008/11/21 : 845)-->, Espagnol (&agrave; r&eacute;actualiser), Vietnamien (bases).
-	</field> 
-	<field>Permis de Conduire : B / Permis Mer : C&ocirc;tier 
-	</field>
-	</miscellaneous>
+    <science>
+        <field> 
+            <big>Gestion de Projet</big> : Planning, BPM, Estimation (Points de Fonction), Tracking, Outils de travail collaboratif </field>
+        <field> 
+            <big>Gestion de la Qualit&eacute;</big> : Ing&eacute;nierie de l'Interaction Homme-Machine (Gestion de crit&egrave;res ergonomiques ou cognitifs), 
+            <br/>Sensibilisation aux normes ISO9001 &amp; CMMI, Assurance/Contr&ocirc;le de Qualit&eacute; : Validation, V&eacute;rification</field>
+        <field> Specification : Cahiers des charges, MERISE, <big>SADT/SART  </big>(Syst&egrave;me temps r&eacute;els), 
+            Ateliers de G&eacute;nie Logiciel, Solutionning d'architectures logicielles </field>
+        <field> Conception <big>UML</big>, Automates et r&eacute;seaux de P&eacute;tri 
+        </field>
+        <!--field> Ing&eacute;nierie de l'Int&eacute;raction Homme-Machine : <big>Cahiers des charges</big>, Gestion de crit&egrave;res ergonomiques.
+        </li-->
+        <field> Programmation en <big>Java/J2EE</big> (IDE NetBeans &amp; Eclipse, applications web et clients lourds swing. <big>SpringMVC, JPA, EJB, CORBA, Maven</big>).
+        </field>
+        <field> 
+            <big>SQL &amp; JPQL</big>(DDL, DML, DCL, DQL),<br/> Langages de Proc&eacute;dure, SGBD Postgres, MySQL, Oracle, MsSQL. 
+        </field>
+        <field> D&eacute;veloppement web : <big> XHTML, CSS, PHP, JavaScript (avec JQuery, AngularJs)</big>. 
+        </field>
+        <field> 
+            <big>XML : XSL, XSP, XQuery</big>, Apache-Cocoon
+        </field>
+        <field> Administration Syst&egrave;me et Réseau : Mise en place d'environnements de tests (intégration continue, Jenkins).
+        </field>
+        <field> Win/<big>Linux</big> : Connaissances Windows/MacOS, ma&icirc;trise de l'environnement Unix. <br/>
+            Programmation <big>Shell</big> (bash, tcsh, Perl, Python) 
+        </field>
+        <field> Logiciels de Bureautique et de Communication Office/open office/Lotus/Adobe 
+        </field>
+        <field> Flash : Adobe Creative Suite 5, ActionScript</field>
+        <field> Algorithmique : Arbres, <big>Complexit&eacute; et Th&eacute;orie des classes</big> (L -> Co-NP) 
+        </field>
+        <field> D&eacute;veloppement d'interfaces graphiques en <big>Awt/Swing, Gtk+, Tcl/Tk</big>
+            <a href="http://nguyen.univ-tln.fr/Enseignement/M5/TclTk/proj2007.html">
+                Projet de licence </a> 
+        </field>
+        <field> Infographie 2D/3D : SDL, OpenGL      Projets <a href="http://nguyen.univ-tln.fr/Enseignement/M5/Proj0708/pendule.html">2D</a> 
+            <a href="http://nguyen.univ-tln.fr/Enseignement/MO2/Mesa/projet2007.html">3D</a> 
+        </field>
+        <field> Compilation : Analyses lexicales, syntaxiques, s&eacute;mantiques par flex et bison. 
+        </field>
+        <field> Programmation Fonctionnelle : Langage CamL 
+        </field>
+        <field> Th&eacute;orie et Recherche d'information : Traitement de la parole, Segmentation d'images, 
+            <br/>Rapports rappel/pr&eacute;cison et Page rank. <br/>
+            Entropie de Shannon, Codage   <a href="../PDF/Travaux_d_etudes_et_de_recherche.pdf"> Memoire de Maitrise </a>
+        </field>
+    </science>
+    <miscellaneous>
+        <field>Langues : Fran&ccedil;ais, Anglais<!-- (Score <a href="http://www.ets.org/toeic">TOEIC</a> 2008/11/21 : 845)-->, Espagnol (&agrave; r&eacute;actualiser), Vietnamien (bases).
+        </field> 
+        <field>Permis de Conduire : B / Permis Mer : C&ocirc;tier 
+        </field>
+    </miscellaneous>
 </knowledge>
