@@ -15,32 +15,33 @@
         <role>
             <big>
                 <b>
-                    <u>Jr Project Management Officer</u>
+                    <u>Project Management Officer</u>
                 </b>
             </big>
             <br/>
-            <br/>BA leader (2 years) + technical leader (2nd year). 
+            <br/>
+            Aptea is a French IT Outsourcing company specializing in software for business that is particularly sensitive and complex (Energy and Transport). Since I have started with Aptea I have been involved in the guiding and development of fix-price projects.
             <br/>
             <br/>
-            Aptea is a French IT Outsourcing company specializing in software for business that is particularly sensitive and complex (Energy and Transport).
+            I was assigned to one customer only (public official establishment) and I carried out a 1800 MD project. The purpose was to refactor wholly a 10 years old software which remained operative yet was based on an outdated set of technologies and also needed to be opened to new stakeholders of the domain. I was a business analyst first, though I also became a technical leader when the project got greater significance. On a second project (started in 03/2014, for another public official establishment) I was fully responsible for the project time and budget, tasks organization and risk management. I led the team and managed all the customer interface.
             <br/>
             <br/>
-            Since I joined Aptea, I have been assigned to one customer only (public official establishment) and I carried out a 1800 MD project. 
-            The purpose was to refactor wholly a 10 years old software which remained operative yet was based on an outdated set of technologies
-            and also needed to be opened to new stakeholders of the domain.
+            V-Lifecycle: I guided the business analysis and wrote the SRS.
+            <br/>
+            I designed the architecture and integrated components, (digital signature using Keynectis' solution, Esri cartography API).
+            <br/>
+            I developed whole parts of the software, including the totality of the model layer of the software and the migration scripts.
+            <br/>
+            I managed and trained the software developers.
+            <br/>
+            I managed the customer interface and integrated change requests.
+            <br/>
+            I set the test environment (prepare test machines) for a software validation squad.
             <br/>
             <br/>
-            V-Lifecycle: I co-guided the business analysis and wrote the SRS. <br/>
-            I designed the architecture and integrated the first components, I also integrated digital signature using Keynectis' solution. <br/>
-            I developed whole parts of the software, including the totality of the model layer of the software and the migration scripts. <br/>
-            I managed and trained the software developers. <br/>
-            I managed partly the customer interface and integrated change requests. <br/>
-            I set the test environment for a software validation squad. <br/>
-            <br/>
-            Environment: SQL Server, Oracle DB, Glassfish, JAVA/JEE (JPA2, Hibernate, EJB3, Spring3 MVC, Maven), JQuery, 
-            Bootstrap Twitter, Lucene, ArcGis, 
-            XSL, Digital Signature, WebDav(Milton), NetBeans, SVN, Mantis, Jenkins, Talend, DokuWiki, xWiki, 
-            Testlink, UML, BPML, French.
+            Environment: SQL Server, Oracle DB, Postgres, Glassfish, Tomcat, JAVA/JEE (JPA2, Hibernate, EJB3, Spring3 MVC, Maven), 
+            AngularJS, JQuery, Bootstrap Twitter, Lucene, XSL, Digital Signature, SIG, WebDav(Milton), iText, NetBeans, 
+            SVN, Mantis, Jenkins, Talend, DokuWiki, xWiki, MsProject, Trello, Testlink, UML, BPML, French.
         </role>
     </item>
     <item>
