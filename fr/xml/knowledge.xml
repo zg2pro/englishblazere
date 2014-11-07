@@ -22,7 +22,7 @@
         <field> 
             <big>XML : XSL, XSP, XQuery</big>, Apache-Cocoon
         </field>
-        <field> Administration Syst&egrave;me et Réseau : Mise en place d'environnements de tests (intégration continue, Jenkins).
+        <field> Administration Syst&egrave;me et Réseau : Mise en place d'environnements de tests (intégration continue, Jenkins, Sonar, Selenium).
         </field>
         <field> Win/<big>Linux</big> : Connaissances Windows/MacOS, ma&icirc;trise de l'environnement Unix. <br/>
             Programmation <big>Shell</big> (bash, tcsh, Perl, Python) 

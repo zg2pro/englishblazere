@@ -5,7 +5,7 @@
             <a href="http://www.aptea.net"> 
                 <img src="http://englishblazere.free.fr/img/aptea.jpg" alt="Aptea" width="120" height="70" border="0" />
             </a> 
-            <br/>Boulogne-Billancourt (Paris Region)
+            <br/>Saint-Cloud (Paris Region)
 		
         </organization>
         <date>
@@ -41,7 +41,7 @@
             <br/>
             Environment: SQL Server, Oracle DB, Postgres, Glassfish, Tomcat, JAVA/JEE (JPA2, Hibernate, EJB3, Spring3 MVC, Maven), 
             AngularJS, JQuery, Bootstrap Twitter, Lucene, XSL, Digital Signature, SIG, WebDav(Milton), iText, NetBeans, 
-            SVN, Mantis, Jenkins, Talend, DokuWiki, xWiki, MsProject, Trello, Testlink, UML, BPML, French.
+            SVN, Mantis, Jenkins, Sonar, Talend, DokuWiki, xWiki, MsProject, Trello, Testlink, UML, BPML, French.
         </role>
     </item>
     <item>
