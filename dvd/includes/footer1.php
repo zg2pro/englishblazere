@@ -1,1 +1,0 @@
-<a href="http://sourceforge.net/projects/dvd-at-home/" title="DVD@Home, 2011-2012 PC @." target="_blank">DVD@Home, 2011-2012 PC @.</a>

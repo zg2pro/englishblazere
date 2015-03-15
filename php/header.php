@@ -2,24 +2,6 @@
 <?php
 
 function age($annee, $mois, $jour) {
-    /*
-      //list($annee, $mois, $jour) = split('[-.]', $naiss);
-      $today['mois'] = date('n');
-      $today['jour'] = date('j');
-      $today['annee'] = date('Y') - 1;
-      $annees = $today['annee'] - $annee;
-      if ($today['mois'] <= $mois) {
-      if ($mois == $today['mois']) {
-      if ($jour > $today['jour']) {
-      $annees--;
-      }
-      } else {
-      $annees--;
-      }
-      }
-      echo $annees;
-     */
-
     //get age from date or birthdate
     $age = (date("md", date("U", mktime(0, 0, 0, $jour, $mois, $annee))) > date("md") ? ((date("Y") - $annee) - 1) : (date("Y") - $annee));
     echo $age;
@@ -48,12 +30,10 @@ function age($annee, $mois, $jour) {
 
 <div id="bookmarks">
 
-
-
     <a href="http://www.developpez.net/forums/u158055/zg2pro/">
         <img src="../img/social_icons/developpez.png" width="40" height="40" alt="."/>
     </a>
-    <a href="http://www.facebook.com/zg2pro">
+    <a href="https://www.facebook.com/pages/Gregory-Anne/262147523982">
         <img src="../img/social_icons/Facebook.png"  width="40" height="40" alt="."/>
     </a>
     <a href="http://www.linkedin.com/in/gregoryanne83">
@@ -65,11 +45,17 @@ function age($annee, $mois, $jour) {
     <a href="http://ubuntuforums.org/member.php?u=757219">
         <img src="../img/social_icons/ubuntu.png"  width="40" height="40" alt="."/>
     </a>
-    <a href="http://www.viadeo.com/en/profile/gregory.anne1">
+    <a href="http://www.viadeo.com/en/profile/gregory.anne2">
         <img src="../img/social_icons/Viadeo.png"  width="40" height="40" alt="."/>
     </a>
     <a href="http://www.youtube.com/zg2pro">
         <img src="../img/social_icons/Youtube.png"  width="40" height="40" alt="."/>
+    </a>
+    <a href="https://github.com/zg2pro">
+        <img src="../img/social_icons/Github.png"  width="40" height="40" alt="."/>
+    </a>
+    <a href="http://stackoverflow.com/users/1173344/zg2pro">
+        <img src="../img/social_icons/stackoverflow.png"  width="40" height="40" alt="."/>
     </a>
 
 </div>

@@ -1,1 +1,0 @@
-<?php $dbhost="englishblazere.free.fr";$dbname="diet";$dbadmusername="englishblazere";$dbadmuserpass="uqbdzhp";$system=1;$prefix="";$sitekey="";$sitecss="jquery-ui";$siteliquidhtml=0;$sitesecurity=1;$allowuserreg=0; ?>
